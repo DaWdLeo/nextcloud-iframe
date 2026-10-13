@@ -25,6 +25,49 @@ MAX_PER_FEED = 55
 MAX_TOTAL = 260
 RECENCY = timedelta(days=14)
 
+
+# Medienmarken von Axel Springer (inkl. 2026 hinzugekommener Telegraph-Gruppe)
+# bewusst keine generische "Springer"-Sperre: Springer Nature ist ein anderes Unternehmen.
+BLOCKED_PUBLISHERS = {
+    "bild", "bild de", "bild zeitung", "bild am sonntag", "bam s",
+    "auto bild", "autobild", "computer bild", "computerbild",
+    "sport bild", "sportbild", "bz", "bz berlin", "b z", "b z berlin",
+    "welt", "welt de", "die welt", "welt am sonntag", "welt tv",
+    "business insider", "business insider deutschland", "insider",
+    "politico", "politico europe", "politico eu", "politico deutschland",
+    "upday", "morning brew", "morning brew inc",
+    "the telegraph", "daily telegraph", "the daily telegraph",
+    "sunday telegraph", "the sunday telegraph", "telegraph media group",
+    "bisnow", "emarketer", "e marketer",
+    "fakt", "fakt24", "onet", "newsweek polska", "forbes polska",
+}
+BLOCKED_DOMAINS = {
+    "bild.de", "welt.de", "bz-berlin.de", "businessinsider.de",
+    "businessinsider.com", "insider.com", "politico.eu", "politico.com",
+    "upday.com", "morningbrew.com", "telegraph.co.uk",
+    "bisnow.com", "emarketer.com", "autobild.de", "computerbild.de",
+    "sportbild.de", "fakt.pl", "onet.pl", "newsweek.pl", "forbes.pl",
+}
+
+def publisher_key(value):
+    return re.sub(r"[^a-z0-9]+", " ", (value or "").lower()).strip()
+
+def host_from_url(value):
+    try:
+        return (urllib.parse.urlparse(value or "").hostname or "").lower().rstrip(".")
+    except ValueError:
+        return ""
+
+def is_blocked_story(publisher, article_url, source_url=""):
+    if publisher_key(publisher) in BLOCKED_PUBLISHERS:
+        return True
+    for url in (article_url, source_url):
+        hostname = host_from_url(url)
+        if any(hostname == domain or hostname.endswith("." + domain) for domain in BLOCKED_DOMAINS):
+            return True
+    return False
+
+
 def google_url(path="", search=None):
     params = dict(EDITION)
     if search:
@@ -117,7 +160,11 @@ def load_feed(feed):
         if not title:
             continue
         source = child_text(entry, "source")
+        source_element = entry.find("source")
+        source_url = source_element.get("url", "") if source_element is not None else ""
         publisher = clean(source, 100) if source else ("t3n" if "t3n.de" in feed["url"] else "Google News")
+        if is_blocked_story(publisher, url, source_url):
+            continue
         if source and title.endswith(" - " + publisher):
             title = title[: -(3 + len(publisher))]
         published = iso_date(child_text(entry, "pubDate") or child_text(entry, "{http://purl.org/dc/elements/1.1/}date"))
@@ -133,6 +180,7 @@ def load_feed(feed):
             "url": url,
             "description": description,
             "publisher": publisher,
+            "source_url": source_url,
             "topic": feed["topic"],
             "topics": [feed["topic"]],
             "published": published,
