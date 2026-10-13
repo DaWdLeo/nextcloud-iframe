@@ -1,0 +1,123 @@
+<!doctype html>
+<html lang="de">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="theme-color" content="#0a101c">
+<meta name="description" content="Signal: Dein persönlicher, unabhängiger News-Aggregator">
+<title>Signal · Nachrichten</title>
+<style>
+:root{color-scheme:dark;--bg:#090f19;--surface:#111b2b;--raised:#172338;--border:#27364c;--ink:#f0f5ff;--muted:#9aadc5;--accent:#8ebfff;--soft:#182b45}
+*{box-sizing:border-box}html{scroll-behavior:smooth}
+body{margin:0;color:var(--ink);background:radial-gradient(ellipse at 12% -10%,#1a3251 0,transparent 39%),var(--bg);font:15px/1.5 system-ui,-apple-system,"Segoe UI",Roboto,Arial,sans-serif}
+body.light{color-scheme:light;--bg:#f3f6fb;--surface:#fff;--raised:#e9f1fc;--border:#dae3ef;--ink:#11243e;--muted:#62768f;--accent:#1c5da7;--soft:#e7f0fd;background:#f3f6fb}
+button,input,select{font:inherit}button{cursor:pointer}
+button:focus-visible,a:focus-visible,input:focus-visible,select:focus-visible{outline:3px solid var(--accent);outline-offset:3px}
+a{color:inherit}.app{max-width:1280px;margin:auto;padding:22px 26px 70px}
+.top{display:flex;align-items:center;justify-content:space-between;gap:12px;border-bottom:1px solid var(--border);padding-bottom:17px}
+.brand{display:flex;gap:10px;align-items:center;text-decoration:none;font-weight:850;font-size:25px;letter-spacing:-.06em}
+.mark{display:grid;place-items:center;width:36px;height:36px;background:#84b5ff;color:#132035;border-radius:11px;font-size:27px;line-height:1}
+.eyebrow{font-size:10px;letter-spacing:.17em;text-transform:uppercase;font-weight:750;color:var(--muted);margin-top:-6px}
+.actions{display:flex;gap:7px;align-items:center}.back{color:var(--muted);font-size:13px;margin-right:7px;text-decoration:none}
+.iconbtn{border:1px solid var(--border);color:var(--ink);background:var(--surface);border-radius:11px;padding:7px 12px;min-height:39px}
+.iconbtn:hover{background:var(--raised)}.intro{margin:30px 0 23px}
+.kicker{display:flex;align-items:center;gap:9px;text-transform:uppercase;letter-spacing:.14em;font-size:11px;font-weight:850;color:var(--accent)}
+.dot{width:7px;height:7px;border-radius:50%;background:#8ad0b1;box-shadow:0 0 0 4px rgba(138,208,177,.13)}
+.intro h1{font-size:clamp(30px,4.7vw,51px);letter-spacing:-.05em;line-height:1.1;margin:9px 0}
+.intro p{color:var(--muted);margin:0;font-size:14px}
+.controls{display:flex;gap:10px;flex-wrap:wrap;margin:18px 0}
+.search{flex:1;min-width:230px;max-width:550px;display:flex;align-items:center;gap:10px;background:var(--surface);border:1px solid var(--border);border-radius:12px;padding:0 14px}
+.search span{font-size:20px;color:var(--muted)}
+.search input{width:100%;padding:12px 0;background:transparent;border:0;color:var(--ink);outline:0;min-width:0}.search input::placeholder{color:var(--muted)}
+select{min-height:43px;border:1px solid var(--border);color:var(--ink);background:var(--surface);border-radius:12px;padding:0 12px;max-width:220px}
+.tabs{display:flex;gap:8px;overflow-x:auto;scrollbar-width:none;padding:4px 0 14px}.tabs::-webkit-scrollbar{display:none}
+.tab{white-space:nowrap;color:var(--muted);background:var(--surface);border:1px solid var(--border);border-radius:30px;padding:7px 14px;font-weight:750;font-size:13px}
+.tab[aria-pressed=true]{color:#142237;background:#eff5ff;border-color:#eff5ff}
+.light .tab[aria-pressed=true]{background:#162c4a;color:#fff;border-color:#162c4a}
+.meta{display:flex;justify-content:space-between;gap:10px;flex-wrap:wrap;font-size:12px;color:var(--muted);padding:11px 0;border-bottom:1px solid var(--border);margin-bottom:19px}.meta strong{color:var(--ink)}
+.notice{background:var(--soft);border:1px solid var(--border);padding:12px 15px;border-radius:12px;color:var(--muted);font-size:12px;margin-bottom:16px}
+.grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:14px}
+.article{min-width:0;display:flex;flex-direction:column;gap:9px;background:var(--surface);border:1px solid var(--border);border-radius:17px;padding:18px;transition:transform .15s,border-color .15s}
+.article:hover{transform:translateY(-2px);border-color:#6689b6}.article.hero{grid-column:span 2;padding:25px;min-height:250px;background:radial-gradient(ellipse at 90% 0,rgba(130,173,232,.13),transparent 60%),var(--raised)}
+.category{font-size:10px;letter-spacing:.11em;text-transform:uppercase;font-weight:850;color:var(--accent)}
+.article h2{font-size:17px;line-height:1.31;font-weight:760;letter-spacing:-.025em;overflow-wrap:anywhere;margin:0}
+.article.hero h2{font-size:clamp(24px,2.9vw,32px);line-height:1.23}
+.article h2 a{text-decoration:none}.article h2 a:hover{text-decoration:underline;text-underline-offset:3px;text-decoration-thickness:1px}
+.article p{color:var(--muted);font-size:13px;margin:0;display:-webkit-box;-webkit-box-orient:vertical;-webkit-line-clamp:3;overflow:hidden;overflow-wrap:anywhere}
+.foot{display:flex;gap:9px;align-items:center;color:var(--muted);font-size:11px;margin-top:auto;padding-top:12px}
+.publisher{font-weight:750;color:var(--ink);overflow:hidden;text-overflow:ellipsis;white-space:nowrap;max-width:55%}.space{flex:1}
+.bookmark{background:transparent;color:var(--muted);border:1px solid var(--border);padding:5px 9px;border-radius:9px;line-height:1;font-size:18px}
+.bookmark.saved{color:var(--accent);background:var(--soft);border-color:var(--accent)}
+.empty{text-align:center;padding:48px 20px;background:var(--surface);border:1px dashed var(--border);border-radius:18px;color:var(--muted)}
+.empty strong{font-size:20px;color:var(--ink);display:block;margin-bottom:8px}.empty p{margin:0 auto;max-width:510px}
+.footer{margin-top:30px;text-align:center;font-size:12px;color:var(--muted)}
+.embed .app{padding:12px 12px 30px}.embed .back,.embed .intro p{display:none}.embed .intro{margin:16px 0 10px}.embed .intro h1{font-size:26px}
+@media(max-width:920px){.app{padding:17px 18px 50px}.grid{grid-template-columns:repeat(2,minmax(0,1fr))}.article.hero{grid-column:span 2}}
+@media(max-width:600px){.app{padding:12px 12px 40px}.grid{grid-template-columns:1fr;gap:10px}.article.hero{grid-column:span 1;min-height:0;padding:19px}.article.hero h2{font-size:23px}.article{padding:16px}.intro{margin:23px 0 16px}.intro h1{font-size:33px}.search{flex-basis:100%;max-width:none}.controls select{flex:1;min-width:120px}.back{display:none}.brand{font-size:23px}}
+@media(prefers-reduced-motion:reduce){*{transition:none!important;scroll-behavior:auto!important}}
+</style>
+</head>
+<body>
+<div class="app">
+  <header class="top">
+    <a class="brand" href="./index.html"><span class="mark">⌁</span><span>Signal<span class="eyebrow">Nachrichten</span></span></a>
+    <div class="actions"><a class="back" href="./index.html">← Workspace</a><button id="theme" class="iconbtn" title="Hell-/Dunkelmodus" aria-label="Hell-/Dunkelmodus">◐</button><button id="reload" class="iconbtn" title="Daten neu laden" aria-label="Daten neu laden">↻</button></div>
+  </header>
+  <section class="intro">
+    <div class="kicker"><span class="dot"></span> Dein persönlicher Nachrichtenüberblick</div>
+    <h1>Was die Welt bewegt.</h1>
+    <p>Mehrere Nachrichtenquellen, ein Überblick. Ohne eigene Redaktion oder versteckte Personalisierung.</p>
+  </section>
+  <section class="controls" aria-label="Nachrichtenfilter">
+    <label class="search"><span aria-hidden="true">⌕</span><input id="search" type="search" placeholder="Schlagzeilen durchsuchen…" aria-label="Schlagzeilen durchsuchen"></label>
+    <select id="source" aria-label="Quelle auswählen"><option value="">Alle Quellen</option></select>
+    <select id="age" aria-label="Zeitraum auswählen"><option value="0">Jederzeit</option><option value="24">24 Stunden</option><option value="72">3 Tage</option><option value="168">7 Tage</option></select>
+  </section>
+  <nav class="tabs" id="tabs" aria-label="Themen"></nav>
+  <div class="meta" aria-live="polite"><span id="count">Nachrichten werden geladen …</span><span id="updated">Aktualisierung wird geprüft</span></div>
+  <div id="notice" class="notice" hidden></div>
+  <main><div id="articles" class="grid" aria-live="polite"></div></main>
+  <footer class="footer">Signal · Quellen werden per RSS eingelesen · Artikel öffnen sich beim jeweiligen Anbieter · <a href="./index.html">Workspace</a></footer>
+</div>
+<script>
+(function(){
+"use strict";
+if(new URLSearchParams(location.search).get("embed")==="1") document.body.classList.add("embed");
+const TOPICS=["Alle","Top-News","Technologie","KI","Wirtschaft","Umwelt","Wissenschaft","Leseliste"];
+const $=id=>document.getElementById(id);
+const KEY="workspace.signal.saved.v1";
+const THEME="workspace.signal.theme.v1";
+let articles=[],saved={},active="Alle",updated=null,failed=[];
+try{const stored=JSON.parse(localStorage.getItem(KEY)||"{}");if(stored && typeof stored==="object" && !Array.isArray(stored))saved=stored}catch{}
+try{if(localStorage.getItem(THEME)==="light")document.body.classList.add("light")}catch{}
+function saveStore(){try{localStorage.setItem(KEY,JSON.stringify(saved))}catch{}}
+function safeURL(value){try{const u=new URL(value);return u.protocol==="https:"?u.href:null}catch{return null}}
+function text(tag,value,className){const e=document.createElement(tag);e.textContent=value||"";if(className)e.className=className;return e}
+function dateLabel(iso){const d=new Date(iso);if(Number.isNaN(d.valueOf()))return "";const delta=(Date.now()-d.valueOf())/3600000;if(delta>=0&&delta<1)return "gerade eben";if(delta>=1&&delta<24)return "vor "+Math.floor(delta)+" Std.";if(delta>=24&&delta<48)return "gestern";return new Intl.DateTimeFormat("de-DE",{day:"2-digit",month:"short",year:"numeric"}).format(d)}
+function listOfArticles(){if(active==="Leseliste")return Object.values(saved).filter(x=>x&&safeURL(x.url));return articles}
+function cleanStory(x){if(!x||typeof x.title!=="string"||!safeURL(x.url))return null;return {id:String(x.id||x.url),title:x.title.slice(0,300),url:safeURL(x.url),description:String(x.description||"").slice(0,600),publisher:String(x.publisher||"Unbekannt").slice(0,100),topic:String(x.topic||"Top-News"),topics:Array.isArray(x.topics)?x.topics.map(String):[],published:String(x.published||"")}}
+function renderTabs(){const host=$("tabs");host.replaceChildren();for(const topic of TOPICS){const btn=text("button",topic,"tab");btn.type="button";btn.setAttribute("aria-pressed",String(active===topic));btn.onclick=()=>{active=topic;renderTabs();render()};host.append(btn)}}
+function renderSources(){const value=$("source").value;const names=[...new Set(listOfArticles().map(x=>x.publisher))].sort((a,b)=>a.localeCompare(b,"de"));const select=$("source");select.replaceChildren(new Option("Alle Quellen",""));for(const name of names)select.add(new Option(name,name));if(names.includes(value))select.value=value}
+function render(){renderSources();const q=$("search").value.toLocaleLowerCase("de").trim();const pub=$("source").value;const hours=Number($("age").value);const cutoff=Date.now()-hours*3600000;
+const filtered=listOfArticles().filter(a=>(active==="Alle"||active==="Leseliste"||a.topic===active||(a.topics||[]).includes(active))&&(!pub||a.publisher===pub)&&(!q||(a.title+" "+a.description+" "+a.publisher).toLocaleLowerCase("de").includes(q))&&(!hours||(a.published&&Date.parse(a.published)>=cutoff))).sort((a,b)=>(Date.parse(b.published)||0)-(Date.parse(a.published)||0));
+$("count").textContent=filtered.length+" Meldungen"+(active==="Alle"?"":" · "+active);
+const host=$("articles");host.replaceChildren();
+if(!filtered.length){const empty=text("div","","empty");const heading=text("strong",articles.length?"Keine passenden Meldungen":"Noch keine Nachrichten verfügbar");const p=text("p",active==="Leseliste"?"Artikel über das Lesezeichen an einer Karte speichern.":articles.length?"Andere Suchbegriffe, Zeitraum oder Quelle auswählen.":"Sobald GitHub Actions den ersten RSS-Abruf abgeschlossen hat, erscheinen hier die aktuellen Meldungen.");empty.append(heading,p);host.append(empty);return}
+filtered.slice(0,120).forEach((a,i)=>{const item=document.createElement("article");item.className="article"+(i===0&&active!=="Leseliste"?" hero":"");item.append(text("div",a.topic,"category"));const h=text("h2","");const link=text("a",a.title);link.href=a.url;link.target="_blank";link.rel="noopener noreferrer nofollow";h.append(link);item.append(h);if(a.description)item.append(text("p",a.description));
+const foot=text("div","","foot");foot.append(text("span",a.publisher,"publisher"),text("span","·"),text("span",dateLabel(a.published),"time"),text("span","","space"));
+const button=text("button",saved[a.id]?"★":"☆","bookmark"+(saved[a.id]?" saved":""));button.type="button";button.title=saved[a.id]?"Aus Leseliste entfernen":"Für später speichern";button.setAttribute("aria-label",button.title);button.onclick=()=>{if(saved[a.id])delete saved[a.id];else saved[a.id]=a;saveStore();render()};foot.append(button);item.append(foot);host.append(item)});
+}
+async function load(){const reload=$("reload");reload.disabled=true;reload.textContent="↻";
+try{const response=await fetch("./news-data.json?t="+Date.now(),{cache:"no-store"});if(!response.ok)throw Error("HTTP "+response.status);const data=await response.json();if(!data||!Array.isArray(data.articles))throw Error("Ungültiges Nachrichtenformat");
+articles=data.articles.map(cleanStory).filter(Boolean);updated=data.updated_at||null;failed=Array.isArray(data.failed_feeds)?data.failed_feeds:[];render();
+$("updated").textContent=updated?"Stand: "+new Intl.DateTimeFormat("de-DE",{day:"2-digit",month:"2-digit",hour:"2-digit",minute:"2-digit",timeZone:"Europe/Berlin"}).format(new Date(updated)):"Noch nicht synchronisiert";
+$("notice").hidden=!failed.length;if(failed.length)$("notice").textContent="Einige RSS-Quellen konnten zuletzt nicht geladen werden ("+failed.length+"). Die übrigen Nachrichten bleiben sichtbar.";
+}catch(err){articles=[];render();$("updated").textContent="Daten nicht verfügbar";$("notice").hidden=false;$("notice").textContent="Nachrichtendaten konnten nicht geladen werden. Prüfe, ob news-data.json vorhanden ist und die GitHub-Action erfolgreich lief.";}
+finally{reload.disabled=false}}
+$("search").addEventListener("input",render);$("source").addEventListener("change",render);$("age").addEventListener("change",render);
+$("reload").addEventListener("click",load);$("theme").addEventListener("click",()=>{document.body.classList.toggle("light");try{localStorage.setItem(THEME,document.body.classList.contains("light")?"light":"dark")}catch{}});
+renderTabs();load();
+})();
+</script>
+</body>
+</html>
