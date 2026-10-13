@@ -1,0 +1,70 @@
+<!doctype html>
+<html lang="de">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Fotogalerie · iFrame-Projekt</title>
+<style>
+*{box-sizing:border-box}html,body{margin:0;width:100%;height:100%;overflow:hidden;background:#0c1521;color:white;font-family:system-ui,sans-serif}
+.gallery{height:100%;width:100%;position:relative;overflow:hidden;touch-action:pan-y;user-select:none}
+.track{display:flex;width:100%;height:100%;transition:transform .75s cubic-bezier(.22,1,.36,1)}
+.slide{flex:0 0 100%;height:100%;background:#172334}.slide img{width:100%;height:100%;object-fit:cover;display:block;pointer-events:none}
+.shade{pointer-events:none;position:absolute;inset:0;background:linear-gradient(180deg,#07111b83,transparent 40%,#07111bab)}
+.header{position:absolute;top:20px;left:24px;right:24px;display:flex;justify-content:space-between;gap:10px;align-items:center;font-size:12px;font-weight:700;letter-spacing:.1em;text-transform:uppercase}
+.label{background:#ffffff33;padding:7px 11px;border-radius:50px;backdrop-filter:blur(6px)}
+.caption{position:absolute;left:clamp(20px,6vw,65px);bottom:clamp(72px,10vw,95px);right:20px;text-shadow:0 2px 12px #000a}
+.caption h1{font-size:clamp(27px,5vw,58px);letter-spacing:-.04em;margin:6px 0}
+.count{font-size:12px;letter-spacing:.13em}
+.controls{position:absolute;bottom:22px;right:22px;display:flex;gap:9px}
+button{border:1px solid #ffffff88;color:white;background:#0e1e2e99;width:45px;height:45px;border-radius:50%;font-size:22px;cursor:pointer;touch-action:manipulation}
+button:focus-visible{outline:3px solid white}
+#play{font-size:16px}
+.progress{position:absolute;bottom:32px;left:clamp(20px,6vw,65px);display:flex;gap:6px;width:min(36%,300px)}
+.progress span{height:4px;background:#ffffff66;flex:1;border-radius:4px;overflow:hidden}
+.progress span.active:before{content:"";display:block;height:100%;background:white;animation:fill 5s linear forwards}
+.progress span.done{background:white}
+.paused .progress span.active:before{animation-play-state:paused}
+@keyframes fill{from{width:0}to{width:100%}}
+@media(prefers-reduced-motion:reduce){.track{transition:none}}
+</style>
+</head>
+<body>
+<main class="gallery" id="gallery" aria-label="Fotogalerie">
+ <div class="track" id="track">
+  <div class="slide"><img alt="Bergsee" src="https://images.unsplash.com/photo-1470770841072-f978cf4d019e?auto=format&amp;fit=crop&amp;w=1600&amp;q=85"></div>
+  <div class="slide"><img alt="Abendlandschaft" src="https://images.unsplash.com/photo-1500534623283-312aade485b7?auto=format&amp;fit=crop&amp;w=1600&amp;q=85"></div>
+  <div class="slide"><img alt="Berge" src="https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?auto=format&amp;fit=crop&amp;w=1600&amp;q=85"></div>
+  <div class="slide"><img alt="Wald" src="https://images.unsplash.com/photo-1441974231531-c6227db76b6e?auto=format&amp;fit=crop&amp;w=1600&amp;q=85"></div>
+ </div>
+ <div class="shade"></div>
+ <header class="header"><span>Meine Fotogalerie</span><span class="label">Demo · 5 Sek.</span></header>
+ <div class="caption"><span class="count" id="count">01 / 04</span><h1 id="title">Augenblicke festhalten.</h1></div>
+ <div class="progress" id="progress"></div>
+ <nav class="controls" aria-label="Slideshow steuern"><button id="prev" aria-label="Zurück">‹</button><button id="play" aria-label="Pause">Ⅱ</button><button id="next" aria-label="Weiter">›</button></nav>
+</main>
+<script>
+const INTERVAL_MS=5000;
+const titles=["Augenblicke festhalten.","Neue Perspektiven.","In Bewegung bleiben.","Alles in einem Fenster."];
+const gallery=document.getElementById("gallery"),track=document.getElementById("track"),progress=document.getElementById("progress"),play=document.getElementById("play");
+const slides=[...track.children];
+slides.forEach(()=>progress.append(document.createElement("span")));
+let current=0,paused=false,timer=null,start=null;
+function render(){
+ track.style.transform="translateX(-"+(current*100)+"%)";
+ document.getElementById("count").textContent=String(current+1).padStart(2,"0")+" / "+String(slides.length).padStart(2,"0");
+ document.getElementById("title").textContent=titles[current];
+ [...progress.children].forEach((el,i)=>{el.className=i<current?"done":i===current?"active":"";if(i===current){el.style.animation="none";void el.offsetWidth;el.style.animation="";}});
+ gallery.classList.toggle("paused",paused);play.textContent=paused?"▶":"Ⅱ";play.setAttribute("aria-label",paused?"Start":"Pause");
+}
+function schedule(){clearInterval(timer);if(!paused&&!document.hidden)timer=setInterval(()=>go(current+1),INTERVAL_MS)}
+function go(i){current=(i+slides.length)%slides.length;render();schedule()}
+document.getElementById("prev").onclick=()=>go(current-1);
+document.getElementById("next").onclick=()=>go(current+1);
+play.onclick=()=>{paused=!paused;render();schedule()};
+document.addEventListener("visibilitychange",schedule);
+gallery.addEventListener("pointerdown",e=>{if(e.target.closest("button"))return;start={x:e.clientX,y:e.clientY}});
+gallery.addEventListener("pointerup",e=>{if(!start)return;const dx=e.clientX-start.x,dy=e.clientY-start.y;if(Math.abs(dx)>50&&Math.abs(dx)>Math.abs(dy)*1.3)go(current+(dx<0?1:-1));start=null});
+gallery.addEventListener("pointercancel",()=>{start=null});
+render();schedule();
+</script>
+</body>
+</html>
