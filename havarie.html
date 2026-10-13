@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="de">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="theme-color" content="#0b1019">
+<title>Havarie-Assistent · Workspace</title>
+<link rel="stylesheet" href="./assets/style.css">
+<style>
+.havarie-frame{width:100%;height:calc(100dvh - 185px);min-height:550px;border:0;border-radius:14px;background:#f3f6f8;display:block}
+.box-frame{padding:8px}
+@media(max-width:650px){.havarie-frame{height:calc(100dvh - 210px);min-height:500px}}
+</style>
+</head>
+<body>
+<main class="shell">
+  <header class="topbar">
+    <a class="brand" href="./index.html"><span class="mark">◈</span>Workspace</a>
+    <nav aria-label="Navigation"><a href="./index.html">Start</a><a href="./galerie.html">Galerie</a><a href="./havarie.html" aria-current="page">Havarie-Assistent</a></nav>
+  </header>
+  <section class="module-intro">
+    <div class="eyebrow">Modul 05 · Demonstrator</div>
+    <h1>Havarie-Assistent</h1>
+    <p class="lead">Statische Oberfläche aus dem D2-Prototyp. Ohne Excel-Bewertung, Fachfreigabe oder operative Notfallanweisungen.</p>
+  </section>
+  <section class="panel box-frame">
+    <iframe
+      class="havarie-frame"
+      title="Havarie-Assistent D2 – nicht freigegebene Demo"
+      src="https://dawdleo.github.io/standortvorsorge/assistent/"
+      loading="eager"
+      referrerpolicy="strict-origin-when-cross-origin"
+    ></iframe>
+  </section>
+  <p class="note">Falls die Ansicht im iFrame blockiert ist, <a href="https://dawdleo.github.io/standortvorsorge/assistent/" target="_blank" rel="noopener noreferrer">öffne die Demo direkt</a>. Nur fiktive Testdaten verwenden.</p>
+</main>
+</body>
+</html>
