@@ -34,3 +34,23 @@ Repository im GitHub-Webbrowser öffnen, die gewünschte Datei auswählen, über
 ## Bestand
 
 Der bisherige Galerie-Prototyp wurde beibehalten: vier öffentliche Unsplash-Bilder, 5-Sekunden-Bildwechsel, Wischgesten sowie Pause/Weiter/Zurück.
+
+
+## Signal · Nachrichtenaggregator
+- \`news.html\`: responsiver Newsreader mit Google News, t3n, Themenfiltern, Suche, Quellenauswahl und lokaler Leseliste.
+- \`news-data.json\`: öffentlich abrufbarer Zwischenspeicher der zuletzt abgerufenen Schlagzeilen.
+- \`scripts/update_news.py\`: RSS-Sammlung mit der Python-Standardbibliothek, bereinigt und vereinheitlicht Daten.
+- \`.github/workflows/update-news.yml\`: GitHub Action für stündliche Aktualisierungen, zusätzlich manuell startbar.
+
+### Erster Datenabruf (Smartphone)
+1. Repository auf [GitHub Actions](https://github.com/DaWdLeo/nextcloud-iframe/actions) öffnen.
+2. Workflow **Signal RSS aktualisieren** auswählen.
+3. **Run workflow** → Branch **main** → **Run workflow** auswählen.
+4. Nach erfolgreichem Abschluss die [Signal-Seite](https://dawdleo.github.io/nextcloud-iframe/news.html) neu laden.
+
+**Homarr-iFrame:** \`https://dawdleo.github.io/nextcloud-iframe/news.html?embed=1\`
+
+Die Startdatei \`news-data.json\` enthält bewusst noch keine erfundenen Meldungen. Erst der erste erfolgreiche Workflow-Lauf füllt sie mit echten RSS-Einträgen. GitHub Actions können gegenüber dem Stundenplan verzögert starten oder im Repository deaktiviert sein. Für den automatischen Daten-Commit benötigt die Action die Berechtigung **Read and write permissions** (GitHub → Settings → Actions → General → Workflow permissions), sofern diese nicht durch die Workflow-Datei erteilt werden kann.
+
+### Grenzen & Datenschutz
+Es werden ausschließlich öffentliche Schlagzeilen und Kurzbeschreibungen verarbeitet, keine vollständigen Artikel gespiegelt. Google-News-Links können zunächst Google News öffnen, bevor die Verlagsseite erreicht wird. Schlagzeilen stammen von Drittanbietern und sind nicht redaktionell verifiziert. Die Leseliste und der Hell-/Dunkelmodus werden im jeweiligen Browser gespeichert, nicht zwischen Geräten synchronisiert. Bei Ausfall aller RSS-Quellen behält das Repository den vorherigen Datenstand. CORS-Problem wird vermieden, da der Newsreader ausschließlich die im eigenen Repository erzeugte JSON-Datei lädt.
