@@ -2,6 +2,11 @@ name: Signal RSS aktualisieren
 
 on:
   workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - "scripts/update_news.py"
+      - ".github/workflows/update-news.yml"
   schedule:
     - cron: "21 * * * *"
 
