@@ -1,7 +1,8 @@
 #!/usr/bin/env python3
-"""Signal – RSS-Aggregator (nur Python-Standardbibliothek, keine API-Schlüssel)."""
+"""Signal – RSS-Aggregator mit direkter Verlinkung der Originalartikel."""
 from __future__ import annotations
 
+import asyncio
 import hashlib
 import html
 import json
@@ -16,6 +17,8 @@ from email.utils import parsedate_to_datetime
 from html.parser import HTMLParser
 from pathlib import Path
 from xml.etree import ElementTree as ET
+
+from googlenewsdecoder import gnews_decoder_async
 
 ROOT = Path(__file__).resolve().parents[1]
 OUTPUT = ROOT / "news-data.json"
@@ -137,6 +140,73 @@ def safe_link(url):
         pass
     return None
 
+def is_google_article(url):
+    parsed = urllib.parse.urlparse(url or "")
+    return (parsed.hostname or "").lower() == "news.google.com" and (
+        parsed.path.startswith("/rss/articles/")
+        or parsed.path.startswith("/articles/")
+        or parsed.path.startswith("/read/")
+    )
+
+def is_original_article(url):
+    hostname = host_from_url(url)
+    return bool(safe_link(url)) and hostname not in {"news.google.com", "google.com", "www.google.com"}
+
+def previous_resolutions():
+    """Preserve successful mappings across hourly RSS refreshes."""
+    try:
+        previous = json.loads(OUTPUT.read_text(encoding="utf-8"))
+    except (OSError, json.JSONDecodeError):
+        return {}
+    cache = {}
+    for row in previous.get("articles", []):
+        if not isinstance(row, dict):
+            continue
+        google_url = row.get("google_url")
+        publisher_url = row.get("url")
+        if google_url and is_google_article(google_url) and is_original_article(publisher_url):
+            cache[google_url] = publisher_url
+    return cache
+
+def resolve_articles(stories):
+    """Only direct publisher links are kept; unresolved Google links never ship."""
+    cache = previous_resolutions()
+    pending_urls = list(dict.fromkeys(
+        item["url"] for item in stories
+        if is_google_article(item["url"]) and item["url"] not in cache
+    ))
+    if pending_urls:
+        try:
+            results = asyncio.run(gnews_decoder_async(
+                pending_urls, timeout=12.0, concurrency=6
+            ))
+            if not isinstance(results, list) or len(results) != len(pending_urls):
+                raise RuntimeError("Unvollständige Decoder-Antwort")
+            for google_url, result in zip(pending_urls, results):
+                dest = result.get("decoded_url") if isinstance(result, dict) and result.get("success") else None
+                if is_original_article(dest):
+                    cache[google_url] = dest
+        except Exception as exc:
+            print(f"WARN: Google-News-Decodierung fehlgeschlagen: {exc}", file=sys.stderr)
+    output, unresolved = [], 0
+    for story in stories:
+        item = dict(story)
+        old_url = item["url"]
+        if is_google_article(old_url):
+            direct = cache.get(old_url)
+            if not is_original_article(direct):
+                unresolved += 1
+                continue
+            item["google_url"] = old_url  # Stable mapping for future runs
+            item["url"] = direct
+        if not is_original_article(item["url"]):
+            continue
+        if is_blocked_story(item["publisher"], item["url"], item.get("source_url", "")):
+            continue
+        output.append(item)
+    print(f"Direkte Links: {len(output)} · Google-Links nicht auflösbar: {unresolved}")
+    return output
+
 def load_feed(feed):
     request = urllib.request.Request(
         feed["url"],
@@ -232,7 +302,22 @@ def main():
 
     news = [x for x in merged.values() if included(x)]
     news.sort(key=lambda item: item["published"], reverse=True)
-    news = news[:MAX_TOTAL]
+    news = resolve_articles(news[:MAX_TOTAL])
+    # Doppelte Originalartikel zusammenführen (unterschiedliche Google-RSS-Links).
+    by_url = {}
+    for item in news:
+        key = item["url"].split("#", 1)[0]
+        if key not in by_url:
+            by_url[key] = item
+        else:
+            target = by_url[key]
+            for topic in item.get("topics", []):
+                if topic not in target["topics"]:
+                    target["topics"].append(topic)
+    news = list(by_url.values())
+    # Keine neuen fehlerhaften/ungefilterten Daten veröffentlichten.
+    if not news:
+        raise RuntimeError("Keine direkten Artikel-Links verfügbar – bestehende Daten bleiben erhalten.")
     payload = {
         "updated_at": now.isoformat(timespec="seconds").replace("+00:00", "Z"),
         "articles": news,
