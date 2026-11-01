@@ -1,6 +1,90 @@
 {
-  "updated_at": "2026-10-31T22:36:43Z",
+  "updated_at": "2026-11-01T02:20:56Z",
   "articles": [
+    {
+      "id": "37ba2da427e294c67852819d",
+      "title": "Gewalt eskaliert: Krawalle und Plünderungen nach Demo in Frankfurt",
+      "url": "https://www.zeit.de/news/2026-10/31/krawalle-und-pluenderungen-in-frankfurt",
+      "description": "",
+      "publisher": "DIE ZEIT",
+      "source_url": "https://www.zeit.de",
+      "topic": "Top-News",
+      "topics": [
+        "Top-News"
+      ],
+      "published": "2026-11-01T00:17:29Z",
+      "google_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOa0JQWTFOaV9aSUJfR1p5WE5teEsxZ0R4RjZGa1NJZ1JDeUFaT3R5eTc2Yl9iQ0FqclJIcDJNbGluVVZQRXJ0SUYxa3JrcWhrRDByU1lhYmt2SzRiYTBhMlhMazFPclFUSjhMcGRtcFE0R0h2eXJmN1RsQXBrUG42bA?oc=5"
+    },
+    {
+      "id": "14ac76eeabd965526b2e6b03",
+      "title": "Binance: FBI macht Nordkorea für Milliardenraub bei Kryptobörse verantwortlich",
+      "url": "https://www.spiegel.de/netzwelt/binance-fbi-macht-nordkorea-fuer-milliardenraub-bei-kryptoboerse-verantwortlich-a-cf2eebce-131e-418f-9510-ce17afcdac74",
+      "description": "",
+      "publisher": "Spiegel",
+      "source_url": "https://www.spiegel.de",
+      "topic": "Top-News",
+      "topics": [
+        "Top-News",
+        "Wirtschaft"
+      ],
+      "published": "2026-10-31T23:33:00Z",
+      "google_url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPc2M5dWNXREV4U09PMWlCUmlKT2kyVFV6V1hBTXFyWjJXcVp2b0dYODBoRi0ydkVZUjZyVkpzUUo0d1gzX1lQbHZjNjVsaks5NlFLS3d4dTlfRTlzRlJZQjJVU1ZpU1EtWnNDNGtwRUhmQUhFLTFDdXU4b19maUlRVkNDZllaTS0wNGNlSDMxcEVjaXJadXE5VVU3QnRGTlZIejhnejZGem9EOGU2SFhxWk1WRURVUVlKWTZ2X3Z1V21CbTZTd0pxbHZhSlVjWXotVEh1bG8wSnB4OFZJbVN3TnB6U0E?oc=5"
+    },
+    {
+      "id": "5226720b1eeea2fcd939973e",
+      "title": "„Verschreckte Tiere im Kostüm“: Das denkt die KI über uns",
+      "url": "https://t3n.de/news/ki-modelle-einschaetzung-menschheit-experiment-1769923/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+      "description": "In einem Experiment wurden zahlreiche KI-Systeme um eine Einschätzung der Menschheit gebeten. Während viele Modelle ein düsteres Bild unserer Gesellschaft zeichnen, gibt es wenige Ausnahmen, die auch einen positiveren Eindruck haben. weiterlesen auf t3n.de",
+      "publisher": "t3n",
+      "source_url": "",
+      "topic": "Technologie",
+      "topics": [
+        "Technologie"
+      ],
+      "published": "2026-10-31T23:00:00Z"
+    },
+    {
+      "id": "9a15c13e2cce919092d211e9",
+      "title": "Mexiko: Hamilton/Ferrari-Pole, Verstappen P4, aber Strafe, Antonelli auf P5",
+      "url": "https://www.speedweek.com/a/formel-1/mexiko-hamilton-ferrari-pole-verstappen-p4-aber-strafe-antonelli-auf-p5",
+      "description": "",
+      "publisher": "SPEEDWEEK.com",
+      "source_url": "https://www.speedweek.com",
+      "topic": "Top-News",
+      "topics": [
+        "Top-News"
+      ],
+      "published": "2026-10-31T22:16:04Z",
+      "google_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNMmRhWkMxMFJFUDV4bGlOQ2RGeVN4cUpRbDJNNDdSdE1Bb1lyZjBQbmpydEExUnNoZ3NIb2g1ZzdvOGd5OTRJVThCSVB3YndVekUyV2ZQS2RhT2Nub2Zla0l1cUREOTNOV1lSbU5tTkZrY3U3Y1ZUdUpGTncxRkdCMXkzMGNEcHcwYV9nNXB2SmdpNUZjM25hRFRhZEFESTc4Tl9ZZlhTN1B0dDYz?oc=5"
+    },
+    {
+      "id": "e5fe3b1c1a50bd92a93ebf11",
+      "title": "Apple Music für Android: Version 7.0 mit Liquid-Glass-Design wird final verteilt",
+      "url": "https://stadt-bremerhaven.de/apple-music-fuer-android-version-7-0-mit-liquid-glass-design-wird-final-verteilt/",
+      "description": "",
+      "publisher": "Caschys Blog",
+      "source_url": "https://stadt-bremerhaven.de",
+      "topic": "Top-News",
+      "topics": [
+        "Top-News"
+      ],
+      "published": "2026-10-31T22:00:58Z",
+      "google_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQdkQ2TmM5ZUhIaTc5QVhXUWRCUVBtMVdtaUhaRlE5T1ByTHJ6ZFVhemVJSjh1Mlh3dkc2REpUSWpDdURyMkZWYnNkN0lNUzJOc2FxTHhNa2tNVTdsVUhWYVNzOW0tM1VlVWNwV0tDYklvMEVUWm1ZNG9yLTBrNWpkbGFQRk5RbExTX2JfOF9lV09QcTBPd3daS0dZS3hzdVZVZXhKS0JSVWZhSHl3Q2Rz?oc=5"
+    },
+    {
+      "id": "57245195e51a401bba881e1a",
+      "title": "Späte Mahlzeiten und Leberrisiko: Chrononutrition mit Datenbasis",
+      "url": "https://www.it-boltwise.de/spaete-mahlzeiten-und-leberrisiko-chrononutrition-mit-datenbasis.html",
+      "description": "",
+      "publisher": "it boltwise",
+      "source_url": "https://www.it-boltwise.de",
+      "topic": "Top-News",
+      "topics": [
+        "Top-News"
+      ],
+      "published": "2026-10-31T21:46:21Z",
+      "google_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNcXozakFKbzFVdmgydldIVVZjeEw4S3JoYjlVNzlxN1VfRnBVZG82WTlCdUFKMXJHcHdUZktoa01ES29GVThZNjN2cFZJaEt5UnpYMTBNZUxjNEF5SmtnU3NmaGhkb0ZrR1BzSXAyV1VlT2owcXBTbF9uSUNHQjUyanBPNnM0SjIxTGRacTFEVERkNEdXRGptZHl1ajg?oc=5"
+    },
     {
       "id": "2a0f5fa6fd6d11b279e4dcce",
       "title": "Vom Solardach bis zum Stromnetz: Wo Deutschland verdient",
@@ -44,6 +128,34 @@
       "google_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQMTdDcFRET2RxUEJFRVVHUURMT0FtTjVydzE5X3czU3oxU2dwV3NEYjdYZEEyZ2pYU09hRHYwWmdrTUZwOXNxcGlvTHpCWF81UnRMY3FDcmZnbS0ybG9BSHRhcXpvYnIyb1ZFSnNlZ3cxZmxNUERUUFVtVWwtbThMR2dBbnIyWVNfU2tGb0puNkxXV1RSd2UzV2tqZ0owNDRxVXpqUkVtMkF0R1YxSnRnUEFoS2xhSE9WTFhfNGZQaXQ0dFZONDc0eA?oc=5"
     },
     {
+      "id": "71cbf0a6da369495c21b8d69",
+      "title": "Ringen um Mehrheit im Parlament: Regierungsbildung in Israel - Präsident Herzog kündigt Gespräche an",
+      "url": "https://www.n-tv.de/politik/Regierungsbildung-in-Israel-Praesident-Herzog-kuendigt-Gespraeche-an-id31480715.html",
+      "description": "",
+      "publisher": "n-tv.de",
+      "source_url": "https://www.n-tv.de",
+      "topic": "Top-News",
+      "topics": [
+        "Top-News"
+      ],
+      "published": "2026-10-31T20:45:03Z",
+      "google_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNNEtZUmg0OFA3czUyaUJRc1RYUkRUeFJuaWtRbnpYWTBWODY0WVRNdmVMcEdSX0NQMXJVak5XaVhMTC1lYkVBVThNR0R4RlQ4d1YtWVJ4bzlUWi01MHpJZEtJVkFLT0ZaUlJhM3RSVnVwRzMta0VKU2Voamo2TV9GUk1Dc1Noc2pfNVRPX2NyMTF3SGdMUnY4c191eEdDVmtNMVdSQWpZcTk5cWZqeVFJNWVR?oc=5"
+    },
+    {
+      "id": "2888e9e9efebdef3a2687ec6",
+      "title": "FC Bayern und Harry Kane feiern sich gegen den BVB zu früh",
+      "url": "https://www.sportschau.de/fussball/bundesliga/bayern-und-kane-feiern-sich-gegen-bvb-zu-frueh,spielbericht-bayern-muenchen-borussia-dortmund-112.html",
+      "description": "",
+      "publisher": "sportschau.de",
+      "source_url": "https://www.sportschau.de",
+      "topic": "Top-News",
+      "topics": [
+        "Top-News"
+      ],
+      "published": "2026-10-31T20:36:00Z",
+      "google_url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPS0VRZUtIZ1NtUmxjdG9IVFMyQmlKWldZM1hZLWRqYjdkeHBpUDhuOGw1RS1vdHkzaktNQW1yNmlvckpDb2NtRVRpX2VMNFJxcmJFdkNpdmdqVG91WG01UnZkRy1JbjhFX3l4M0U4OWFITk8wZnh0UWRUcVkxd1p3ZGJkT2hHdTgtaWIwM1lKZjc1WWdfSFF2MmJ3QXB6eVJ5Q01UemhpZ2ctY1dLdmp3WWdJRU9WeklfWXRfcG1fRThTdEdJblRlQndNNUQ4V195cmdZUW9KUFlFTUNPUllubkZn?oc=5"
+    },
+    {
       "id": "2de7f632536028de166b61b8",
       "title": "Gen-Z-Demo in Stuttgart: Jugendproteste enden im Chaos - Polizei zieht erste Bilanz",
       "url": "https://www.stuttgarter-zeitung.de/lokales/stuttgart/gen-z-demo-in-stuttgart-jugendproteste-enden-im-chaos-polizei-zieht-erste-bilanz-79629734.html",
@@ -56,20 +168,6 @@
       ],
       "published": "2026-10-31T20:29:00Z",
       "google_url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOM0hTcEd2RGtPYTVJcjBqU1VLbGhBb2ZwRlpSaWZqbzZJZWItTWtvdExnb0tIU1lGaU4yelJIOEU0RVVia1FkTG9LSkw0TGNRcW1XbHh1N1l6SVRVcm94ekRwOXNra0ItcmVpNTMwdjNKQXhDdnhOTEI2OEZWamVfRmZpWU16MDFIMHlCSE5OcE05ci0zeS1xZjd0QzhzdkdaZlNZQ3N3VmIwY3BaMnlZbWhXRmktTHR3VnN1clB3dE5EclM3c1FJcHRNYXFZcnpad0tMOU50a1ZTTVpTVmlPaw?oc=5"
-    },
-    {
-      "id": "396b5bf61260b22f5d51843e",
-      "title": "Steinwürfe und Pyrotechnik - Polizei stoppt Demo-Zug in Berlin-Mitte vorzeitig",
-      "url": "https://www.rbb24.de/panorama/beitrag/2026/10/demo-gen-z-hat-genug-rosenthaler-platz-polizei.html",
-      "description": "",
-      "publisher": "rbb24.de",
-      "source_url": "https://www.rbb24.de",
-      "topic": "Top-News",
-      "topics": [
-        "Top-News"
-      ],
-      "published": "2026-10-31T20:06:56Z",
-      "google_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOdm1UN2puUFVoZ0xkM1RQLXhLSG1fOGprRTdEOWlzaTRkTDNFOUpINGVoWGRESVF1aEZGMUZuejdsWWh4UXljS3RUaTJBV1RZQm1sREZSZkZfY2VXdkNuQm5OUWZsSTlYektvSHNIaWp4Z2Rub1o4SEU3OE9kbmlNM3hZb3VoQWtidTF1aUF4UVczUHNnMm9aMThydnhyZw?oc=5"
     },
     {
       "id": "5b58447f94af6cb8397d86a3",
@@ -99,6 +197,34 @@
       "google_url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPVVlYU3A4ZUI2T24waXloRmVINGNFNDBFZEdIU3hJRUxTWDZXRVduWDQ5Ujh5RW5iYjgxNlJvV3FyS2M5VmN3RkVqQkhDWjdIZWNXNkg1RnAwd0JvMDMzaHJDWFhQQUcxNUJSbl9qMVJqTnJmdEV3aHh4WGpMbW5KcXpySjc2MlQxT1cta20tOEtwUXRzWF9aLXY5RUtzVjNFOHp6MFlBeTFGeUxMMVFRbWJGMmRFYzhScXI0aXg4MzNfbi1fcU94Sl9iMTVUUXlMbnYxaTc5T0NIeERzb21hM05CZl9tNmlaYVhVQWtQYktaa3lYVjdJMnFrRFVvQlZmOWE3UzZ2UTM0ZmVMX3c?oc=5"
     },
     {
+      "id": "f0cddf84007b6784e306b79d",
+      "title": "Rosaroter Meteorit aus der Sahara entpuppt sich als 4,1 Milliarden Jahre altes Stück Mars",
+      "url": "https://www.focus.de/wissen/rosaroter-meteorit-aus-der-sahara-entpuppt-sich-als-4-1-milliarden-jahre-altes-stueck-mars_248bfaf1-59c9-4491-a7e4-b314300b007f.html",
+      "description": "",
+      "publisher": "FOCUS online",
+      "source_url": "https://www.focus.de",
+      "topic": "Wissenschaft",
+      "topics": [
+        "Wissenschaft"
+      ],
+      "published": "2026-10-31T19:46:00Z",
+      "google_url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNSnA4Y1I4LS01TkFZbTNFRzNhM2xJYW9VbTU5NlZ4bUxWcUxlNHU5V3JKUDM4RWllRlpHWjRSTDNPZmZmclRQV205THFnSTJjLWlNbjVaNDR4R3hmNUZOUkVkX244S2xvSnZBaXNzUktRei1QN2NXcTRFX0t2SHl6bUhTdlFlMkMzN2hNVUVBX3pBQ3A4Y0FxWG03azJ0cjRJdHY4RmUwdWNYdi1obWdtQnNhc2ZvZ1h0d2cxV3ptOWNnVGZDcHJjdmtnZDVydUxweXNGUHIxU0Q1THVPOE9KZDlzR3EzMFRUTnBBN3Z1WEtDUQ?oc=5"
+    },
+    {
+      "id": "829f5854b46736613a5f6344",
+      "title": "Tennis: Alexander Zverev verliert und verpasst potenzielles Traum-Finale in Wien",
+      "url": "https://ran.joyn.de/sports/tennis/tennis-alexander-zverev-verliert-und-verpasst-potenzielles-traum-finale-in-wien-209671",
+      "description": "",
+      "publisher": "Joyn",
+      "source_url": "https://ran.joyn.de",
+      "topic": "Top-News",
+      "topics": [
+        "Top-News"
+      ],
+      "published": "2026-10-31T19:38:59Z",
+      "google_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOVG1MOFhJcFU5Qk5NZXNYM2F6RlhGSmRXbWd3eDJfQlROdjEyZGxKYUZ0dlZyTXFZTXFTSnhvRmVsekJfcnRXal9DLTRZcjYxakRtU244d0w3MUxYUnlmVU5qRVpneF9NMVR5X0VtOEtHdkNPazFGQTR6X1NtX0JUT2t1MU9YRTJXcVdGS2xoQlF2UUNBamxmZUU0RUlmd1RjbkEtMUNRZzV1YWlyMi1UWkU0TENhaGgzR05PTA?oc=5"
+    },
+    {
       "id": "7c33eaf3654de821f6ba3760",
       "title": "Skoda verschenkt 3D-Druckvorlagen: So rüstest du dein Auto auf",
       "url": "https://t3n.de/news/skoda-3d-druckvorlagen-gratis-auto-zubehoer-1769154/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
@@ -112,75 +238,32 @@
       "published": "2026-10-31T19:20:00Z"
     },
     {
-      "id": "72ba56ea56974d072c81c2aa",
-      "title": "Die vergessene Ehe von Ryan Reynolds und Scarlett Johansson",
-      "url": "https://www.promiflash.de/news/2026/10/31/die-vergessene-ehe-von-ryan-reynolds-und-scarlett-johansson.html",
+      "id": "46a3f07b2f4213c55bb0d0c2",
+      "title": "(S+) Smalltalk beim G20-Außenministertreffen in Atlanta: Johann Wadephul plaudert mit Sergej Lawrow",
+      "url": "https://www.spiegel.de/politik/deutschland/smalltalk-beim-g20-aussenministertreffen-in-atlanta-johann-wadephul-plaudert-mit-sergej-lawrow-a-5981aa8c-ac98-4946-8319-9de68c38f7a9",
       "description": "",
-      "publisher": "Promiflash",
-      "source_url": "https://www.promiflash.de",
+      "publisher": "Spiegel",
+      "source_url": "https://www.spiegel.de",
       "topic": "Top-News",
       "topics": [
         "Top-News"
       ],
-      "published": "2026-10-31T18:54:00Z",
-      "google_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQXEtWmEtbGV3NS1ZM2wzbzRYWlc2RTZPM0g5VjJQOGgtSlkteXRjTU5fSWg4SlU0ZGdjUDd4c3JmMXFOM2hEYTEwZnFCcGxVOU5uOVZWYk12R0ZXckxFWmxNdl93Q1ZVcHMwTkJjdW5HbnpjZ0hfLVFzNDZzMkRuZGZzVGVaTE5TX1V0bnd1RWlrWTBscU55YXZ2YVc2ZnJiUFRQaGxVZmttZw?oc=5"
+      "published": "2026-10-31T18:58:00Z",
+      "google_url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPR1g0LUNoeDhxeHpLM2xHb2dES3FzSVlCRkoyQ21kekNEcVBIdGJaSkVnajY1V1ZjSXlLeWlWVzV3Z3d2T2luR2FYamFzWVVUM1dCQUVMQTRzSmNoMGNJTm5VRTJGaTdqSkZRcXRjbHA3Q08tRTlPTlo2c08zaExfcy0zMk5oX2dHZ25QWUgwMm0wT244NTV3ZEphblREM2dvd0dzazFoR2c4RWc1cjVrMzctYklKZHEyWDJvSGJFam9TOUV0bUFGRFhlOHNyNkRTRGtTOENrQ3VGRXo1aDREVm1iNTZDclBXODdObjhfZEQ1UE9GRFBhNkN0dVYwY2V3NDRWWjhySQ?oc=5"
     },
     {
-      "id": "a410aaeed5c008d978932198",
-      "title": "Gabriel und Lauterbach unterzeichnen offenen Brief SPD-Mitglieder starten Unterschriften­aktion gegen Linksbündnis in Berlin",
-      "url": "https://www.tagesspiegel.de/politik/lauterbach-unterzeichnet-offenen-brief-spd-mitglieder-starten-unterschriftenaktion-gegen-linksbundnis-in-berlin-16223591.html",
-      "description": "",
-      "publisher": "Tagesspiegel",
-      "source_url": "https://www.tagesspiegel.de",
-      "topic": "Top-News",
-      "topics": [
-        "Top-News"
-      ],
-      "published": "2026-10-31T18:53:00Z",
-      "google_url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOVUVYTjFxeGN2Rmt3UkJxd21UQUhVWTZDY2FQLXlmUkQtaVlCeVBJX1RrazBDcF9PM2Q4bGJUc2xLUWxTNTVQSENMZFExS2FFNFN5TXNDWnRiVGV6bXJndnBnc1J5bFgxcHQ4N2NISjhmM1VVOGYzbW1yOHUwT2xRVU9FRE5JSjBnSFlORXJiZlVESlBMb0dKQUtOcXBpZTEtdDNCMEZvc0F4eXI2aWFOcUM2RHJuRlNteXViZTZsTmF0OGJXLUhvZ1ZZbHJOVlhhbGRUMUc4QzZFUEJ6TlBqNEZhb0Rpa0xwazFDeXBSaU9jZ3M?oc=5"
-    },
-    {
-      "id": "d90000bc7e48717f1df44293",
-      "title": "Zverev motzt, verliert und verpasst Traumfinale gegen Alcaraz",
-      "url": "https://www.eurosport.de/tennis/atp-wien/2026/alexander-zverev-motzt-und-verliert-halbfinale-gegen-alex-de-minaur-deutscher-ab-montag-die-nummer-eins_sto23351003/story.shtml",
-      "description": "",
-      "publisher": "Eurosport",
-      "source_url": "https://www.eurosport.de",
-      "topic": "Top-News",
-      "topics": [
-        "Top-News"
-      ],
-      "published": "2026-10-31T18:42:00Z",
-      "google_url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOOFhNWW1IY243SmlnTVN5ZjN0NWF0YklGdkNWS194Uk53ckY5MzBodlM3T2pvOWNYb3BaTWxTUmh1dW43bGpIY1JoeS1tMnFCSUJtOEN6VkU4b1o4Y0FjQmg0bnZWaTFhcklRbjIyeDFETEVNbDFHUmJZTmFNSkhuY2R4TWdIckctTFBfSHFvN3lUYUNEOGswMW1ObklvV1JCUzgtanRCZ3lyR1BMczJRa0pJMXhuMFowRGYwTEh1Tm8xWUY2TDBEOXFkcTNRQ3p0U1VNU0ttNmJpNk5vZm4wU3huaXFmUjFVeFRzS25zNXhzMHJ1YTFrQWZvZWllRWl5eFhV?oc=5"
-    },
-    {
-      "id": "4d47adf30077078d3827ec8b",
-      "title": "3. Training Mexiko: Norris 1/1000 vor Antonelli, Verstappen P5, Hamilton P6",
-      "url": "https://www.speedweek.com/a/formel-1/3-training-mexiko-norris-1-1000-vor-antonelli-verstappen-p5-hamilton-p6",
-      "description": "",
-      "publisher": "SPEEDWEEK.com",
-      "source_url": "https://www.speedweek.com",
-      "topic": "Top-News",
-      "topics": [
-        "Top-News"
-      ],
-      "published": "2026-10-31T18:34:11Z",
-      "google_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOMXVrSTU4enE5Q2kwaHVwU0VubzdSMzB3c04yZmNDMVZDdnFBcTBKYXM3bFp4ZGdadmlmQzRveWVEc2NqTEktS3pYZ1ZCOHhuYmZIV1doYVhxd3dtR1lDd2s2OEZTMEltNDV5aExNNUZodTVUMHpMTW9RelFuVlJ3RTRoNTRoX2RGSjRmbm41SElHS0JyUmRFUE5SQ2NJR210ZkZwTGRDaXRzVnF3?oc=5"
-    },
-    {
-      "id": "0d9b919ea167e4a3eb30cc5a",
-      "title": "Kryptobörse Binance: Binance sichert Großteil der bei Hackerangriff gestohlenen Summe",
-      "url": "https://www.zeit.de/wirtschaft/2026-10/binance-hackerangriff-kryptowaehrungen-nordkorea",
+      "id": "d4517a6ead28a1f572a9a42f",
+      "title": "Musik: Deep-Purple-Sänger im Krankenhaus - Konzerte abgesagt",
+      "url": "https://www.zeit.de/news/2026-10/31/deep-purple-saenger-im-krankenhaus-konzerte-abgesagt",
       "description": "",
       "publisher": "DIE ZEIT",
       "source_url": "https://www.zeit.de",
       "topic": "Top-News",
       "topics": [
-        "Top-News",
-        "Wirtschaft"
+        "Top-News"
       ],
-      "published": "2026-10-31T18:32:30Z",
-      "google_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQNnZ4MVhhQV94eWsxbDh0cXltQ0pnNm13ZllwZWV5UTBhRHNOLXBFTTZOaVEtaThKVFJ6S01PaHUtcHdNSm5DWDduWlRCUzluMjI5UDZaaUFnMi1oYlNDdnlJZUN5TWZIcjlmUkZaYlNSVmZfczdqSHZZaGlrb1ZOS3VfQnVtNEV6eHVkTEhLQV8?oc=5"
+      "published": "2026-10-31T18:49:47Z",
+      "google_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOVWxuWXF3UC1RX0FCUVRjN3NYQ0FzN21kaVRxUkF6NlhvUTdRUWg2ck9sU3hCNkZXN3dzUUxLVElpbzViTWZEcDRROXRKMGVNa3hXY2V3dkZuZ2RNN010UmJackRGT3ZUTG1oU2NhcTRGZExBcTZYbHVITUhBaEw1elowbTdoenA1bmV3c0E0Y3ZsZw?oc=5"
     },
     {
       "id": "75a61f8be7fb89bd5a6431ad",
@@ -209,60 +292,18 @@
       "published": "2026-10-31T18:30:00Z"
     },
     {
-      "id": "2f3e8d3c4e51e0bf6563c349",
-      "title": "Fettleber: Jeder vierte Erwachsene in Deutschland ist betroffen",
-      "url": "https://www.ad-hoc-news.de/wissenschaft/fettleber-jeder-vierte-erwachsene-in-deutschland-ist-betroffen/70439604",
+      "id": "509d4bb1cfe54c5cc8fa7245",
+      "title": "Calden: Polizei prüft Bekennerschreiben nach Brand auf Rheinmetall-Baustelle",
+      "url": "https://www.hessenschau.de/panorama/calden-polizei-prueft-bekennerschreiben-nach-brand-auf-rheinmetall-baustelle-v5,calden-brandstiftung-100.html",
       "description": "",
-      "publisher": "ad-hoc-news.de",
-      "source_url": "https://www.ad-hoc-news.de",
+      "publisher": "hessenschau.de",
+      "source_url": "https://www.hessenschau.de",
       "topic": "Top-News",
       "topics": [
         "Top-News"
       ],
-      "published": "2026-10-31T18:09:42Z",
-      "google_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQLTNBMTRGYUJ3SHd2eG9Rb3RJUzU0NkFpNXpmTW9YMnhRaXk5ZFJkZUhMTGRnZXZUa3ZTOEFGaC1nVThROFlFSFRqQmRrOHFSX2s1bkM2Ykp6Ti1tQnVHdEFuVk1XNFhvTm9wQi1nMXVzQW8ydWxGeksyd3hnRG1BOW5kNTF2d3VTaVhCZzFDem5zMUc2RHd0TF9FMjNqTlo3cVdtMmhEY1ZjOGo4eWl4LQ?oc=5"
-    },
-    {
-      "id": "625c87febd6d3befe3a4cdc6",
-      "title": "Midterms in den USA: Kippt ausgerechnet Texas?",
-      "url": "https://www.tagesschau.de/ausland/amerika/usa-midterms-wahlkampf-texas-100.html",
-      "description": "",
-      "publisher": "tagesschau.de",
-      "source_url": "https://www.tagesschau.de",
-      "topic": "Top-News",
-      "topics": [
-        "Top-News"
-      ],
-      "published": "2026-10-31T18:05:00Z",
-      "google_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOTVVWajF1X05nSGdXNkpQbWFJVUJqNGhtSFJiaHp0dXhyMUttYUVwVkhHbFRpQVJMZlBqb2N5RlFqTUNPbm91bFdJQVBsN1J3OW0zdmVOQU9wWjFFTy1GN3R2QWpGQWZ2a3VQeGlla1VWcmR1V0lFT0I4WjFzY21PTmYtNzRuQQ?oc=5"
-    },
-    {
-      "id": "5e77819dcf914e8de4e746cc",
-      "title": "Kiew und Moskau kooperieren: Evakuierte aus Oleschky erreichen nach langer Reise die Ukraine",
-      "url": "https://www.n-tv.de/politik/Evakuierte-aus-Oleschky-erreichen-nach-langer-Reise-die-Ukraine-id31480239.html",
-      "description": "",
-      "publisher": "n-tv.de",
-      "source_url": "https://www.n-tv.de",
-      "topic": "Top-News",
-      "topics": [
-        "Top-News"
-      ],
-      "published": "2026-10-31T18:02:36Z",
-      "google_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVGhjM1ZjazIzVWxQM1pMWmZhRlJidjdZTXhxYnF4LUdmZ2MyMFBRYzhXaU9BdEZ5WUQ5OWU0a1Z3dXhLMnNfY01XYVlZYTNvMnh4MkozbTdWdDVYenV5Ulg1R3FQdjVBYktLc1J1aWlGVi1yMUxmRkNPTURwMmhxaHRMdnpodmhvczNKMjYwQ3FTZTFYX2gtRDVqa0tlQzBPa21udkRNS0R5N3M?oc=5"
-    },
-    {
-      "id": "8b0b7daaa2d5e4ab4e30321d",
-      "title": "Deep Purple: Ian Gillan im Krankenhaus – Konzerte in Leipzig und Hamburg abgesagt",
-      "url": "https://www.spiegel.de/kultur/musik/deep-purple-ian-gillan-im-krankenhaus-konzerte-in-leipzig-und-hamburg-abgesagt-a-f60a4d19-adf4-4675-acbc-61fff00bd925",
-      "description": "",
-      "publisher": "Spiegel",
-      "source_url": "https://www.spiegel.de",
-      "topic": "Top-News",
-      "topics": [
-        "Top-News"
-      ],
-      "published": "2026-10-31T18:02:00Z",
-      "google_url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPdEhQS0JuMmU1ZTZUY0ZVYVB6aXlHTTU3d2hHZWsyRkNIZ1hSYnJlYkN3RklBeUxoU2p5NmhvbGFqaUk2WHkxT3ZNSWtzRFdoT1VfV2RlTjh0YzQ5ek9OcTNtQWg3SWJQN3cyX0lyWGtONkJBUFktVTFuSDlIemhldDhSc1FIUTVFUDdfRFI3RV9IOUZkQTZ5dktWN1NFVUVHNi03TFh3VjAtWm83MTNPeG12UVpVSFJwcWhTeU9IOXRBSy1lTVlselc3cG00VTQtVXdiN3pHTzE3Z05mUEZxVW9iX1pVNGkx?oc=5"
+      "published": "2026-10-31T17:59:00Z",
+      "google_url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPSXB1aGZOb0Ezb09GQkpjME1yeW1xdnNuczlIMFhjUzB1eHFOeUpmVTBvTERJX0U3UG1BVUVRaWhLREZqbGpVTnVaY1NVRVhJZ3J5bnNOVlZHdGhKSU1zUWhPUC1iYnVlcmlpSlEzcjVXbkFiTjU2VGx4bjU4bk96MVpsT2lHODdPa005a2I4REk0Q256d1ZkbWdQQXEta2pFcmpwU3RVSlNQTlhJeTRpT2xNdzZ1N0c0VVlRNC15Szh3cWNfV0gtMERqa3NOSnhsWmhwNFl3NUVaV3c3WVE?oc=5"
     },
     {
       "id": "14f374f429b68dab48a28e44",
@@ -305,20 +346,6 @@
       "published": "2026-10-31T17:40:00Z"
     },
     {
-      "id": "831af471fbf08326aa7b9ca0",
-      "title": "Liveticker: Demos von \"Gen Z regelt\" - aktuelle Infos hier",
-      "url": "https://www.ndr.de/nachrichten/niedersachsen/liveticker-zu-gen-z-regelt-demos-in-hannover-und-goettingen-beendet,genz-124.html",
-      "description": "",
-      "publisher": "NDR.de",
-      "source_url": "https://www.ndr.de",
-      "topic": "Top-News",
-      "topics": [
-        "Top-News"
-      ],
-      "published": "2026-10-31T17:18:54Z",
-      "google_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQcENDOXVXek5vdElWMUw1ZnF3MUZpNkFiaFFjRnVyM1RLN1E0dFVMdHladG40Smx1a2UxdDlvQmV1SHhkVl9LSTFrSzZ0alFJZkU3T2RINjRuWXVtUll4TTVadVl4c1dxUXh0UG1qQjVFVFVSWkJfTzIwWVNfUktZTDN2Ylg1SzZnVWhQQzQtTTZ1UTZGOXNUb0VzRjg5YUFUZ0VRTVZWOWJmeFFiUHQwSVlDZGpxYUdIelhDV0VrX2M2MWx1?oc=5"
-    },
-    {
       "id": "646668c738dd9cd249d531b9",
       "title": "Echte Polwanderung: Warum der Nordpol nicht fest an seinem Platz bleibt",
       "url": "https://t3n.de/news/echte-polwanderung-nordpol-verschiebung-1769517/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
@@ -332,20 +359,6 @@
       "published": "2026-10-31T17:10:00Z"
     },
     {
-      "id": "7ad9a9a2ce557f4b455891c0",
-      "title": "Förderung für 300mm-Wafer in Itzehoe an Vishay übergeben",
-      "url": "https://www.heise.de/news/Foerderung-fuer-300mm-Wafer-in-Itzehoe-an-Vishay-uebergeben-11507214.html",
-      "description": "",
-      "publisher": "heise online",
-      "source_url": "https://www.heise.de",
-      "topic": "Wirtschaft",
-      "topics": [
-        "Wirtschaft"
-      ],
-      "published": "2026-10-31T16:58:00Z",
-      "google_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTGw0dWw4RlRTM0x5d0EzUUVCanFXVGZsc3dNYUJzUU9PM0NKeVhxdjBFaWRYRXlNMDN6Z2lFYmFLRFk1TXhqYUFqYXhCUFkyeVJCWXpnMW0xVXJRbVRkTzMySnVYOVFiQUR1dVd3bHhnblBTQUdBZkd5T09tNHNERHR4Y0ZmSVF0dE13b1lHcVlJTmJyNGdJcFVuNlBzOC1r?oc=5"
-    },
-    {
       "id": "f64e7e9a82f6a8c71f9511d7",
       "title": "James-Webb-Teleskop: Mysteriöses Signal in leerem Raum entdeckt",
       "url": "https://t3n.de/news/james-webb-teleskop-mysterioeses-signal-leerer-raum-1769577/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
@@ -357,6 +370,20 @@
         "Technologie"
       ],
       "published": "2026-10-31T16:45:00Z"
+    },
+    {
+      "id": "db6a8bb884e802ec5765ed33",
+      "title": "Rätsel im All: James-Webb-Teleskop findet Signal im Nichts",
+      "url": "https://t3n.de/news/james-webb-teleskop-mysterioeses-signal-leerer-raum-1769577/",
+      "description": "",
+      "publisher": "t3n",
+      "source_url": "https://t3n.de",
+      "topic": "Wissenschaft",
+      "topics": [
+        "Wissenschaft"
+      ],
+      "published": "2026-10-31T16:45:00Z",
+      "google_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNcFU3QVppSGtCSFh5bl96bXhzMHFyemVJckcya3R5NU1HNWJNOHRTclVZcHhleFh1dkVpSk5EUjlaVXNHS3p0SW1jRmRWb1NGanozUjRKQ3BjbURNbVdqbG56OGJWR1FVQW96Tm1JbHphYTd5VW5pLVo5eS0yZFltTHluRUVpV1E?oc=5"
     },
     {
       "id": "a4b33f73eea491c8c19cc665",
@@ -387,20 +414,6 @@
       "google_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB6WXpZTjBqalljX215dXhVdXVBQWtrMXdqMlRCaVV2U2JNVjVQR01YUDZKN1RyRkk0MHBLUXZYZFBfRGtDOHRIalRMdnBRMHo0MENnRFNpb2hBem9acTgyQ19kX2NGZw?oc=5"
     },
     {
-      "id": "4f22c8e823edaff31afff0a5",
-      "title": "Was Salz aus 1.000 Metern Tiefe so wertvoll macht",
-      "url": "https://www.tagesschau.de/wirtschaft/technologie/salz-142.html",
-      "description": "",
-      "publisher": "tagesschau.de",
-      "source_url": "https://www.tagesschau.de",
-      "topic": "Wissenschaft",
-      "topics": [
-        "Wissenschaft"
-      ],
-      "published": "2026-10-31T16:21:00Z",
-      "google_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1xeW9iMU5GU2thcDhBb3RlSzdHNU9oUDZvdzU1bksyNExEVE1Tank3cWI4dHF6el8zWGFPeVZqdnBFUVNDZ19UenVjV2RvS1pxRGJBLXJMU21ObFF6Nk1fdlJ0UmVCX3pSZ3V6WlM5UQ?oc=5"
-    },
-    {
       "id": "a826238d91e5736fd6f80cd2",
       "title": "Washington D.C. und Virginia wollen Trumps Triumphbogen mit Klage verhindern",
       "url": "https://www.stern.de/politik/ausland/trump-kassiert-klage-wegen-seines-geplanten-triumphbogens-38481738.html",
@@ -413,6 +426,20 @@
       ],
       "published": "2026-10-31T16:20:00Z",
       "google_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPTmMzNUZrd0xwRWRheFFOQm9RbzlOWFlhQ0RLc1E4VmZpNTlaRW11bnZxak1GbnF0VVFnakNudHVudnFTdncwcDdRZ09tWTRVVlFjaXBxVHdxN0lWRU94WEtpUm5LWEwwbHBuQU5XN1FaZEdGQi05dkxBczFHZEFsUzk5WG1XcTA4SHZnVFdxUFBNTk5CSEV4SWdLXzB2NFkybVdzb0lZMjhnN2pB?oc=5"
+    },
+    {
+      "id": "b726ea60dda263a38e13c90d",
+      "title": "Spanien: Erster Tätigkeitsbericht der Untersuchungsstelle CIAF zum Zugunglück in Urda (Toledo)",
+      "url": "https://www.lok-report.de/news/europa/spanien/spanien-erster-taetigkeitsbericht-der-untersuchungsstelle-ciaf-zum-zugunglueck-in-urda-toledo.html",
+      "description": "",
+      "publisher": "LOK Report",
+      "source_url": "https://www.lok-report.de",
+      "topic": "Top-News",
+      "topics": [
+        "Top-News"
+      ],
+      "published": "2026-10-31T16:18:00Z",
+      "google_url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOVHgxcDIwNmFFaTV4Qk8wN21keFR2QWxYd1U1cFlNd0E3NTdKMS12VW1VYnRyVWVEQkFjb0NLeXZQcVpFUWVSSVJmd0JyYkhfbnBWdW1wVGFRbVNWWndBZmFWX0pFdHJ2ZE1uc0RmRFJlVnFtdzlxTUUxZXY3eDdSWTJ1ai1oem5NM2dsMjIxVmFRMndwRGFLeWJhVE82N0JWTTNKVWFMQzB1TkJETlkwaVBtQXZKcWRiNGFoamRoZGdHZXFkQ3ZVT3IwX2pHQWJQZ0d2WEZDTGE5RnF3?oc=5"
     },
     {
       "id": "5d5ca2dade4c73144002e05b",
@@ -429,19 +456,6 @@
       "google_url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQVDgxbU13ZDBhdmduZ2h3ZDR0OUx2UGVJVExlTG05YlJPLTJ1ZUJnZUo3Q2NjNVB2MWJveVkzTVQ2QkZXQlFyN0NpelVIV2t0Z0ZmVUktd0FkX3hlT0dSdlBFZkYxcGZyeU9mM1hWTm9ycXNDSEhISWlXMjNNWnBEb1Y1XzlmU0lzYzM4QmZFa21kcEJzQnY0VXlRZ29HOTBuOVpDWXZ1eEdNVWxoMjN4amhRYWRxTUx1X1k2UXk5WjludDY3Yjc0UE5BVjZ1T2lmUThFeFJZNTBVRFlwaXNkNS1YWXM?oc=5"
     },
     {
-      "id": "309ea7ec75f2f57464c963cb",
-      "title": "Lumina: Supercomputer-Simulation zeigt die ersten 2 Milliarden Jahre nach dem Urknall",
-      "url": "https://t3n.de/news/lumina-simulation-fruehes-universum-urknall-1770466/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
-      "description": "Die Simulation Lumina bildet die ersten zwei Milliarden Jahre nach dem Urknall ab. Sie könnte Wissenschaftler:innen dazu zwingen, bisherige Annahmen über das Universum auf den Prüfstand zu stellen.weiterlesen auf t3n.de",
-      "publisher": "t3n",
-      "source_url": "",
-      "topic": "Technologie",
-      "topics": [
-        "Technologie"
-      ],
-      "published": "2026-10-31T16:05:00Z"
-    },
-    {
       "id": "457c1a3f2bfd15aa2133155a",
       "title": "Neue BMW-Modelle feiern Premiere bei Krah & Enders",
       "url": "https://osthessen-news.de/n11802372/neue-bmw-modelle-feiern-premiere-bei-krah-enders.html",
@@ -453,8 +467,21 @@
         "Top-News",
         "Wirtschaft"
       ],
-      "published": "2026-10-31T16:04:30Z",
+      "published": "2026-10-31T16:07:14Z",
       "google_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQaFZTUk5GSThuRmlYUzd3RThkZllzY08wbktVcnU2d09lUFVIZmsyZXJvQVNvWVBDaEJDQUotNDBOVUdrYmNhYjVnX21hdWlGT1Q3dnc4VW1pNzBnN2NEdXNIVzV6XzgyRElSWnhzU3BVa0lmN01sX096N212RUUtYXZBaDhpMmtPWFRiek5jbkt5MEU?oc=5"
+    },
+    {
+      "id": "309ea7ec75f2f57464c963cb",
+      "title": "Lumina: Supercomputer-Simulation zeigt die ersten 2 Milliarden Jahre nach dem Urknall",
+      "url": "https://t3n.de/news/lumina-simulation-fruehes-universum-urknall-1770466/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+      "description": "Die Simulation Lumina bildet die ersten zwei Milliarden Jahre nach dem Urknall ab. Sie könnte Wissenschaftler:innen dazu zwingen, bisherige Annahmen über das Universum auf den Prüfstand zu stellen.weiterlesen auf t3n.de",
+      "publisher": "t3n",
+      "source_url": "",
+      "topic": "Technologie",
+      "topics": [
+        "Technologie"
+      ],
+      "published": "2026-10-31T16:05:00Z"
     },
     {
       "id": "4a60188cf9bf02837a203e7f",
@@ -471,18 +498,18 @@
       "google_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZ1VnZnRxMFN1V0RpSFpOa1RBVEwwNG5DaWxnQVI4ZHIzMjd3Wmp4MmhGSDJYaWlIbnZMQ2NpYUtFSmxXSTQwczdGRzR5dWMzV2tQWGZ1VFFiZjRBNi1nVEduZkZROWFkaWhGSlItbzdCb3FTRnV1LXBnd2dXOTM1ODlNNjFLbzhYTUVUVDdENjVDNjZIZVZtdQ?oc=5"
     },
     {
-      "id": "f5859b35b2edde37d923883f",
-      "title": "Polizeieinsatz nach GenZ-Demo - Böller in der City gezündet: Alle Infos im Live-Ticker",
-      "url": "https://www.ruhrnachrichten.de/dortmund/genz-demo-dortmund-friedensplatz-protest-live-ticker-zusagen-w1268458-2002282599/",
+      "id": "ef433bb82e5ffc244ab43e50",
+      "title": "Edeka hisst die Fahnen – Veränderung in den Kaiserwiesen sichtbar",
+      "url": "https://www.osthessen-zeitung.de/einzelansicht/news/2026/oktober/edeka-hisst-die-fahnen-veraenderung-in-den-kaiserwiesen-sichtbar",
       "description": "",
-      "publisher": "Ruhr Nachrichten",
-      "source_url": "https://www.ruhrnachrichten.de",
-      "topic": "Top-News",
+      "publisher": "Osthessen-Zeitung",
+      "source_url": "https://www.osthessen-zeitung.de",
+      "topic": "Wirtschaft",
       "topics": [
-        "Top-News"
+        "Wirtschaft"
       ],
-      "published": "2026-10-31T16:02:00Z",
-      "google_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQX0FLTVVxY3pfelVja0RiSTVMMjNpZmpXRnZqSlc5WWlrbjA4bGx4Rk01MEFYRkhQTTY5ek0zRW1sb2J2S0t0QmpzUXJoc2tjQmViYmUzdE44bTc2RkFDUXU2bGc4Q09Bdlg0Z203X25mcjBIMlc2VS1nTDJyczc2ZVF5anV1SFVHbldsbEpYVVdLN2k4amdGMWF5ZHNiVkJodWtwM3RxVFpheDRzSGJpd3d2N3FjUS1xNElOTmNn?oc=5"
+      "published": "2026-10-31T15:51:25Z",
+      "google_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZURJa01uVWdWYlF2cXduMy1sOEgzWFlMVGwyM25xdWhWNWJMVXl0N0pxX0NmT0IzcWV1eWhDWi1NOTZ0RG9mUXFzLTZ4dHRnd3JYTGd6R0t2SVgwMDFTUTRocXY0TzV6YWN4VUpMY3FKQWdYVXI3WnljTlNlX0ZZSWtCSWxEaG1PeF9NSTZyX3RPUzg3U0RyX1hHYkE5cEcxb1FUUk9yZlZwank0WUNRMmd1N183VkdTS05vcUZjZXFDLXNSUkowYw?oc=5"
     },
     {
       "id": "36b1c2285f66258c96b9394f",
@@ -526,20 +553,6 @@
       "published": "2026-10-31T15:10:00Z"
     },
     {
-      "id": "d946275746ed65d54871a391",
-      "title": "Beliebter Möbel-Discounter begeistert am Montag (2.11.) mit diesen Angeboten",
-      "url": "https://www.tag24.de/anzeige/moebel-boss-angebote-montag-02-11-2026-ecksofa-boxspringbett-stuhl-ganze-kuechen-3543295",
-      "description": "",
-      "publisher": "TAG24",
-      "source_url": "https://www.tag24.de",
-      "topic": "Wirtschaft",
-      "topics": [
-        "Wirtschaft"
-      ],
-      "published": "2026-10-31T15:05:00Z",
-      "google_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRGJicEF3dW8yYlZ4LW9ieDV5Nk9LWFdFejRoRjN2OXB1bllpOWk2ZVIzZTJFTmNNU00yLVluWUFHMHhEUWtkSTVNOUhOekhMd1RZY25iOUJyUWFkSTZyZjRzcFNjYkNRd2NTWGxYNVdzUjdOT2dTNTFWeDhHTEgzczNYT3l4bERHQVdGR18yUHQxMksxMDNyQzBfb3JxV3FCbUNkRWVFaWc0UWVPcXg1WTg3ZVNTcmo5?oc=5"
-    },
-    {
       "id": "bc552d14b22542a842a152f7",
       "title": "Alphabet-Aktie nach Death Cross: Was frühere Signale für die Zeit danach zeigen",
       "url": "https://www.finanzen.net/nachricht/aktien/signal-nach-kurssturz-alphabet-aktie-nach-death-cross-was-fruehere-signale-fuer-die-zeit-danach-zeigen-00-16022686",
@@ -566,6 +579,20 @@
       ],
       "published": "2026-10-31T15:05:00Z",
       "google_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNa21sQVdObk1Ea2dMbUswN0ZjTVhoR2c4X1c5eUtuY2MtQU5sYk1aaEh6MlhPdUtScGh3SF82MlMzRGFBVDlucDNIS0dfaHNEdE1ZcTVCYUoyNmdTYmw4YkphdnpVRUprMUxYMjM3Z2FCVnZmcU9XLVRrZF9MRnlia3ZCb3JhQkc1bEtVZks4dXRRdC1aZDdlUDJ4ZTdRUWlVQlNSVnNSRzlISHRCNURLYlF1aHUwMWpLRVJYRVJ1UVQ1dWpWTlFj?oc=5"
+    },
+    {
+      "id": "d946275746ed65d54871a391",
+      "title": "Beliebter Möbel-Discounter begeistert am Montag (2.11.) mit diesen Angeboten",
+      "url": "https://www.tag24.de/anzeige/moebel-boss-angebote-montag-02-11-2026-ecksofa-boxspringbett-stuhl-ganze-kuechen-3543295",
+      "description": "",
+      "publisher": "TAG24",
+      "source_url": "https://www.tag24.de",
+      "topic": "Wirtschaft",
+      "topics": [
+        "Wirtschaft"
+      ],
+      "published": "2026-10-31T15:05:00Z",
+      "google_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRGJicEF3dW8yYlZ4LW9ieDV5Nk9LWFdFejRoRjN2OXB1bllpOWk2ZVIzZTJFTmNNU00yLVluWUFHMHhEUWtkSTVNOUhOekhMd1RZY25iOUJyUWFkSTZyZjRzcFNjYkNRd2NTWGxYNVdzUjdOT2dTNTFWeDhHTEgzczNYT3l4bERHQVdGR18yUHQxMksxMDNyQzBfb3JxV3FCbUNkRWVFaWc0UWVPcXg1WTg3ZVNTcmo5?oc=5"
     },
     {
       "id": "18b5db3182aa708932404856",
@@ -610,6 +637,20 @@
       "google_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxObjVFZnFiRmROQXoyTWs4RUV1ZlVtQkladmozZVI3bGlKNVpNekhEbHFIZmNjSXo0MkFXUzY2Q0FFckFRUUdJSEtYaVYzdjBDRGMzWjNNOWpucXpOMnl1ajRndVpyVnJvZWlTYTI3aVVaNnFsaHowZl9WWFlBMG95QWhzaE8xVC1nTVhudlhPSjRaZlM1VHpiOHB4UDktVW1uZklwazcyOGpNSFhFR2p5dVpvUkJIa2tVSEJxekNB?oc=5"
     },
     {
+      "id": "be84bdbb87dd2b1d31b2d37f",
+      "title": "Saints Row: The Third: GTA-Gegner mit Sex-Appeal-Slider auf iOS & Android",
+      "url": "https://www.computerbase.de/news/gaming/saints-row-the-third-remaster-macht-smartphones-unsicher.100097/",
+      "description": "",
+      "publisher": "ComputerBase",
+      "source_url": "https://www.computerbase.de",
+      "topic": "Technologie",
+      "topics": [
+        "Technologie"
+      ],
+      "published": "2026-10-31T14:36:00Z",
+      "google_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQVkk0b3I5YlM0QnAyak9EcW1icGVLWXBDRkF3M3VTMUFJWS1ySmt0b0I1amhaS1VLMlBQVHoxMFRjajhBRVpHUW9sanZFLUJ5LVBmZUwxZlZFSXJueUdzRmQwNlVXX1NXNzFieHFBaWdoRVgtWVRtZzdGR0FzRHNEc0JvRllvdGhkODZ5ZUhwb2hvbTNmREdKa3BNS2dtOHB1MTNkNzNyOA?oc=5"
+    },
+    {
       "id": "2832974ec024a988ea690317",
       "title": "Das richtige KI-Modell finden: So nutzt du Benchmarks statt Bauchgefühl",
       "url": "https://t3n.de/news/ki-modell-finden-benchmarks-kosten-1762013/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
@@ -636,28 +677,15 @@
       "published": "2026-10-31T14:30:00Z"
     },
     {
-      "id": "3c593f736210f89506bf9e09",
-      "title": "WhatsApp auf iPhones: Ab 30. November ist mindestens iOS 15.5 Pflicht",
-      "url": "https://borncity.com/news/whatsapp-auf-iphones-ab-30-november-ist-mindestens-ios-15-5-pflicht/",
-      "description": "",
-      "publisher": "BornCity",
-      "source_url": "https://borncity.com",
-      "topic": "Top-News",
-      "topics": [
-        "Top-News"
-      ],
-      "published": "2026-10-31T14:12:04Z",
-      "google_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNUHJGeDFaQVVmZ2hXdzkyclJkNERuUk9yalA1Zm5Id3hTVFNLLWtjVXV4UmZGY3FRZnd1NXlvel81dUJPOEYwWWUzTnFYdHZmWGprcndzZWlfenMzZ1RxSjlZX3p6ZmRnVUQtM2Z1NmI1TWNRbE95engtOS04bnN1VW5DVlZTV2tZbndRZy1xSHVJOGxZTWNmWU9n?oc=5"
-    },
-    {
       "id": "13f68ea268248aab1048b8e5",
       "title": "KI-Boom: OpenAI-CEO Sam Altman kri­ti­siert unge­nutzten RAM in PCs",
       "url": "https://www.computerbase.de/news/apps/ki-boom-openai-ceo-sam-altman-kritisiert-ungenutzten-ram-in-pcs.100104/",
       "description": "",
       "publisher": "ComputerBase",
       "source_url": "https://www.computerbase.de",
-      "topic": "KI",
+      "topic": "Wirtschaft",
       "topics": [
+        "Wirtschaft",
         "KI"
       ],
       "published": "2026-10-31T14:10:00Z",
@@ -727,8 +755,7 @@
       "source_url": "https://www.forschung-und-wissen.de",
       "topic": "Top-News",
       "topics": [
-        "Top-News",
-        "Wissenschaft"
+        "Top-News"
       ],
       "published": "2026-10-31T13:36:39Z",
       "google_url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQQi1aWTlNYnRUZ1FicVdrSmc2QmRGMlB4dTB0d3l4N0tHdklkZ0hoWm5JSFZHVC1pLXh0ZkotV1dGdzlQN05QLWFtal9sOGZGWkYzLXdfbFowejB6STZreGxvbl9UUDgzUzRWLUJTVFgtUV9LX0NURTM1WThBcDNFcDlUNjBMdWNVT1B5MU54SjRiN0l3WkV4eGtHa0lZTDhnbWd2WS1OSGlUYU1hMW04THNOMU5zQ0pTcFhYbWs4N2xFQ1RxSi1yZDFVRFBrNDM4U0thM2tlTEs?oc=5"
@@ -830,6 +857,20 @@
       "google_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNc0RSNnQ3YXIyR2MyWXVLbGk0anFsZ3M3SXhiRXJ4ZGNTLVFfSlNsLTh3UlFReV90VUc5cnFXWkxFNU5qcGhxQmd6MjNzemdRTWI0M0dwdFBPaG85YnppcFpUUW5zdVFqRzZMNWdvb1IzbUVFazRoMmJ4SkZBc05GZ1FCNDZOZ0JHaTJIOGZ2RlNTdTVWRkxNVnZHNldPR2JCZlpPUld3b1lyUXpnbnVBUU9n?oc=5"
     },
     {
+      "id": "e08923a4d42a49b72f1f77d3",
+      "title": "Schokolade wird günstiger: Zetti, Halloren und Co. senken Preise drastisch",
+      "url": "https://www.mz.de/mitteldeutschland/wirtschaft/schokolade-weihnachten-preis-zetti-halloren-4347282",
+      "description": "",
+      "publisher": "Mitteldeutsche Zeitung",
+      "source_url": "https://www.mz.de",
+      "topic": "Wirtschaft",
+      "topics": [
+        "Wirtschaft"
+      ],
+      "published": "2026-10-31T12:22:00Z",
+      "google_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOR3hTcVByZk5veTRxNDRVSEMxQk5ORmlPcm96UDZrS0pqQnBtMHZSNHlVbWJwRFY5R1phdmRVQXdIZENjUUpzNnhra2V2aTkyVC1IMXhUeExjNzVVTXc2SHJjbi0xVldHY3YtQndmMXkyWV9pOGpKVWVmLU54R3BIbzQ0WTBMSnBIZmp1Q21fVjJKRnRKVW00SElsa0Mxdk0?oc=5"
+    },
+    {
       "id": "c092461c5c831a7bea8c254a",
       "title": "Land im Protest: Zinsen sprengen Frankreichs Haushalt, aber Rechte und Linke machen teure Versprechen",
       "url": "https://www.dw.com/de/proteste-und-reformen-steigende-zinsen-sprengen-frankreichs-haushalt/a-79805455",
@@ -871,6 +912,20 @@
       "google_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxObU9ocDNCUDI3ZzlXSWwzaHFIeVRZNENFT08wRnZJVjJEaXFyRkZqSU5FZHNsbHlmVHRJTDREQTdPdDVlOG82UjNaSExUVTZhTUFIMTNyNExBNlZONmotbE5teGpmemFzakpxTHFZY05XSFVZZlpUakpTU2pBc1FMNHlYdHBvX3FqOWRZUDdwZEl0aDJ4X1p4RTlSNWpNTUJFSzI5bFJ1T1ZqZHhwckx0bw?oc=5"
     },
     {
+      "id": "675de98065ae3225223cf582",
+      "title": "Das System Vucic in Serbien: Besiegt, aber nicht verschwunden",
+      "url": "https://www.tagesschau.de/ausland/europa/serbien-studenten-nach-wahlsieg-100.html",
+      "description": "",
+      "publisher": "tagesschau.de",
+      "source_url": "https://www.tagesschau.de",
+      "topic": "Top-News",
+      "topics": [
+        "Top-News"
+      ],
+      "published": "2026-10-31T12:08:00Z",
+      "google_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRU12R3NSQ185dVNtZmVNeTNvSUtYMmZyUTFuN3R5aWNNYnJTTGRaY19CWHktVzBWQWlNdnhmSEIwb3gxN25tNTdzU1ViWnVYaFhUREliU3ZlUlZfYXVKMkx3MHhZNjc3NlU4WEVjbGRIZ19PVEJXWlV3akxPakZuMERvU1F5WDZL?oc=5"
+    },
+    {
       "id": "dd5ffb3cf8b05758c6309b09",
       "title": "Goldpreis-Prognose: Panik greift um sich – Wie schlimm wird es jetzt für Gold?",
       "url": "https://www.wallstreet-online.de/nachricht/21614274-anleger-fluechten-gold-goldpreis-prognose-panik-greift-schlimm-gold",
@@ -883,20 +938,6 @@
       ],
       "published": "2026-10-31T12:00:00Z",
       "google_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMTlHa2tEM2Y2YjZudHpTSmNJT0ViTkJ2bFNvb1pLcGJtWXNPVnJpQ2d6eEoyeE1XenFVcXkyTTcyWXppTFFsY2lXUGJvOTJRSFFEUlJoLTZyemtCSy04ZmE3S003MHFpTGhPZlBzM21TX3NwWXZkY0tRZ25IOVVZWmw4YlptZmJBbnpqenEzRDVFV05YXzN6cDRFZTRlNERnc2dKbE1MRUs3RjRELWo0cE1mOEdUbnlHOVAw?oc=5"
-    },
-    {
-      "id": "891a25c444e4d288a6461aba",
-      "title": "Wegen Gruppenfoto-Streik Russischer Außenminister Lawrow ärgert sich bei G20-Treffen über Wadephul",
-      "url": "https://www.tagesspiegel.de/internationales/reuters-wegen-gruppenfoto-streik-russischer-aussenminister-lawrow-argert-sich-bei-g20-treffen-uber-wadephul-16221814.html",
-      "description": "",
-      "publisher": "Tagesspiegel",
-      "source_url": "https://www.tagesspiegel.de",
-      "topic": "Top-News",
-      "topics": [
-        "Top-News"
-      ],
-      "published": "2026-10-31T11:56:00Z",
-      "google_url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQWE9QUUI4Q2cyaG9ndDZXTkZpRTBuVERZVnFxdFFYZGN1VUE0Y05ZUXlNUFpfZFBaMTNJNkI3TjlYQk5ueFZ4RkdtbVRqR1c2aHh5WmVOQ1VGb0JLVFZuM2hDT1hpZXdVc09BSHFzcG94ckljQTdIZFEzQ3AyLXJPa2RDQjFpT2ZOS0s1VmpPVmdKSzNFT2NWUXJPY181V3I0RFU0X3h5djRLVW85azc2bmVCd1ZKcmNTRzJQLXQwQ1BMcXhuUDVqWTJWN0VzOUFxYWlNZ05XRldsa2R6OWRpSkgtbXJwRTktT1pIMlJfY1ZjaEFtMDQ3Zw?oc=5"
     },
     {
       "id": "71ccbbc8864659503ffa5067",
@@ -926,18 +967,18 @@
       "published": "2026-10-31T11:35:00Z"
     },
     {
-      "id": "b6772fb5541dfb5ee5bceecb",
-      "title": "Nach Tegut-Abschied: Inventur in zahlreichen Märkten",
-      "url": "https://osthessen-news.de/n11802365/nach-tegut-abschied-inventur-in-zahlreichen-markten.html",
+      "id": "fb0c2f24f861500d5d729a45",
+      "title": "Gewerkschaft ruft in Bremen zu Warnstreiks bei Mercedes auf",
+      "url": "https://www.butenunbinnen.de/nachrichten/warnstreik-ig-metall-aufruf-bremen-100.html",
       "description": "",
-      "publisher": "Osthessen|News",
-      "source_url": "https://osthessen-news.de",
-      "topic": "Wirtschaft",
+      "publisher": "buten un binnen",
+      "source_url": "https://www.butenunbinnen.de",
+      "topic": "Top-News",
       "topics": [
-        "Wirtschaft"
+        "Top-News"
       ],
-      "published": "2026-10-31T11:30:48Z",
-      "google_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNRzJ0Nnd1Q3pXYkppOFktRWRBN2lHNWJjMkNfU0U3NXZmSTFqWTg5RjRRWHNXM2tJZjQtR3lNZjlYV0p5ZUpMbjIxQ2lMRHFRZlFNM1FKcjVpdW1ER3g4OWF5ZEJkWjNZUHlHM1hQMWo4eWRoenBnSmkzR09iM2F5YkEyZ19fSkpzR0JweVNaNFVfNG1tZG1v0gFgQVVfeXFMUGlVYUhFZDNIODZydzRxMnRBTVdxYjdTWE5NYkp6Y0RpVkdhbTl6aG9mZDVZcEFqZ2ZVNFpJM0p1c3RjSjlUUmZiUTlHcDVNQkthZjhBNF9iRmwyRFE2SFlw?oc=5"
+      "published": "2026-10-31T11:11:43Z",
+      "google_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOMmVDcUhIMC1fQ2paR1hfRWtpXzFzZmFINTlBUkVlUnhNSjBEVVhwWTU2dFdYQW1BOUdRV2pwQk1yckZWZUctaE1YM1drUWFiRnJKQ0pvQkpWM1F0dU92akZjdW9oM2l2TDFkUnFKcG9KbFhsTlk1WHdSbUJHUTJHUEpOcDRzbzk4eWgydQ?oc=5"
     },
     {
       "id": "371ca7254fd4cea6f678b542",
@@ -973,8 +1014,9 @@
       "description": "",
       "publisher": "Golem",
       "source_url": "https://www.golem.de",
-      "topic": "Technologie",
+      "topic": "Top-News",
       "topics": [
+        "Top-News",
         "Technologie",
         "KI"
       ],
@@ -1010,21 +1052,6 @@
       "google_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMmNCelNudlRtUlQzdGI4OXVITkJVVDVMWnBLOEJPUXV6R0YySm5SendncUZGR3dCMEs0NVQyQVVBN0lnR3l4VlpkaUNUMFRpUVhlbVFWUzJxSUlfY1JjLXZOVkxob3RqWm5XMDlSclA2c0RncExBSUphdUlYQzJLV1VGY00yYmhSV2s4a2dSVlRUZE1nck1mWE11Ynp1LXIyS1lNTXBlZjZOQmh5MzZEWElBeF9FUkk?oc=5"
     },
     {
-      "id": "682ad37c616f2484739a3b40",
-      "title": "DWS stoppt Auszahlungen: Notmaßnahme für Immobilienfonds",
-      "url": "https://www.faz.net/aktuell/finanzen/dws-stoppt-auszahlungen-notmassnahme-fuer-immobilienfonds-accg-201636215.html",
-      "description": "",
-      "publisher": "FAZ",
-      "source_url": "https://www.faz.net",
-      "topic": "Top-News",
-      "topics": [
-        "Top-News",
-        "Wirtschaft"
-      ],
-      "published": "2026-10-31T10:25:08Z",
-      "google_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOOHFPOHloYkFfNXNIdHpmbHRUTXZYLXJuc1otXzZmWnBpVkVON2lzQmk1aGVxVjBZQ0hBUDQ0WjJfUWo0enpabFRrcDAySjlDZ0x1Xzd6c21jdFRWNncyUjFhOHpiMkJ3RkNXQUZJVTM0Z2k0ZmNZVXJQT2FXcVk0SmZLeTlDdkxTZE5Oc3k1UWNaQmxKWG5GY0ZkY0x2ZzJyQXVEM3lNeUZqbWl3OFQyR2wxSVc?oc=5"
-    },
-    {
       "id": "821a545d69fd8f135a19bc0a",
       "title": "Smarte Thermostate: So steuerst du deine Heizung lokal – ganz ohne Cloud-Zwang und nervige Abos",
       "url": "https://t3n.de/news/smarte-thermostate-heizen-ohne-abo-1768361/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
@@ -1044,8 +1071,10 @@
       "description": "",
       "publisher": "Handelsblatt",
       "source_url": "https://www.handelsblatt.com",
-      "topic": "Technologie",
+      "topic": "Top-News",
       "topics": [
+        "Top-News",
+        "Wirtschaft",
         "Technologie"
       ],
       "published": "2026-10-31T10:22:10Z",
@@ -1058,10 +1087,8 @@
       "description": "",
       "publisher": "PCGH",
       "source_url": "https://www.pcgameshardware.de",
-      "topic": "Top-News",
+      "topic": "KI",
       "topics": [
-        "Top-News",
-        "Wirtschaft",
         "KI"
       ],
       "published": "2026-10-31T10:15:00Z",
@@ -1096,18 +1123,18 @@
       "google_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOR2l4MnNMRy1UUV82Wl9IaVBhMjVTeXhybF9sSGdjaThKQ1pMSTBERkcwc1NFSzhwUXpsSVRKUGpTSVg4a2oydmx1WHN1Z2R5VktRWWphOWtQWkp3VlpHQTdRS21KZFBRMU9DSXpMVWN1UTliRVcydWJTZkRfRTBoUjdIMVk1REdkLWZLMFRFN21hd3pIQV8xZGVGN0Nld2l4bXhwejlVQ3RTdw?oc=5"
     },
     {
-      "id": "39e8fe45b39142be3ab3ae77",
-      "title": "Android Auto: Diese drei neuen Funktionen sind ab jetzt verfügbar",
-      "url": "https://www.futurezone.de/digital-life/article760799/android-auto-diese-drei-neuen-funktionen-sind-ab-jetzt-verfuegbar-aktuell.html",
+      "id": "c66402150a24906050a0ad0a",
+      "title": "Wer ein Handy von Motorola kauft, muss aufpassen",
+      "url": "https://www.giga.de/tech/wer-ein-handy-von-motorola-kauft-muss-aufpassen--01M5KQV21CAXG7MRZBCR0CAAYY",
       "description": "",
-      "publisher": "futurezone.de",
-      "source_url": "https://www.futurezone.de",
+      "publisher": "Giga",
+      "source_url": "https://www.giga.de",
       "topic": "Technologie",
       "topics": [
         "Technologie"
       ],
-      "published": "2026-10-31T09:52:21Z",
-      "google_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOVUtuc2pHcmN4SVR5YzhIT3M2VWR5b0VVM2hmY2RrcmpydDc1TlJQbDYxU050U1oxU1MwSWJ3bnZZX1RqZ2RlZEhkLUtRS24xUUI2b3ZFQll5RXZRMUFTS25aMWZYcXg5YVRxTE9jUTY4bEo2OURVcHRidDZydC1KdkVReWhVby0wM0FQeHVITEF2SVBMU3A4cjhtdGprMHZfbUQzWmpiblYteE5ZWlpOYUxFNkdTaFV5M3Rpbk9WNUZ3MHRlaTRRcGF3OA?oc=5"
+      "published": "2026-10-31T09:41:00Z",
+      "google_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNTk92dGNHeHJCM2lRTTdoZzRpRVVxNEliX2FvUHkyUlJ4WUVpSmNSejRDSGVRQUtSc3BtWXBxM1BEQVNSVkYxMHo2SWozVUxRaVVrOUdRT3Z3aFBta3ZXb2tMTmFhMmFrUDJJVzdqWDBVUVRSZ0tmOWJCNlBaVUc2ZDNad0ZGUVhpT2ZwZFRwWUFQQ09KSXoxUndDWFlxanZwTUE?oc=5"
     },
     {
       "id": "06da83270f34552f7636c010",
@@ -1136,6 +1163,20 @@
       ],
       "published": "2026-10-31T09:30:02Z",
       "google_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOaU9tSlRuazZ3ZUJON1Z6UGNUSFRZVEhwXzZ5endsWEFabXVPV3cyQlhidTh2ZUU3X3JwWnNpM1dVX2tzNHM5ZEhkSTJ4UGJKTGprdHl2cF9aMGhWdUZCQUk1WUNyLVdLTm41RFNBV2FfekZJd3JHUDFZMEtzS2o1ci1wNTRqRGJnT0tudg?oc=5"
+    },
+    {
+      "id": "99f41b78ef5adcf366861a1a",
+      "title": "Künstliche Intelligenz: Wer soll das bezahlen?",
+      "url": "https://www.dw.com/de/k%C3%BCnstliche-intelligenz-wer-soll-das-bezahlen/audio-79232629",
+      "description": "",
+      "publisher": "DW.com",
+      "source_url": "https://www.dw.com",
+      "topic": "KI",
+      "topics": [
+        "KI"
+      ],
+      "published": "2026-10-31T09:25:18Z",
+      "google_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQYjU2MXk4OHJPVTZiR3QtOHk0Q1U0NG5TUHJ6SDQ5dkM5bzFsWkRDdTZpZjdZNHdkYjFFcEQ4NWZjZF9ZUXRBMzlscTQ5OWpPck42UWdnaHJQVTdoSFgxTHJQcDg5NTE3V0l6N0M3dFZ3dXRST1NJaG9mdFhRYW10WkF4ZFRLNW55anN0TFlzRQ?oc=5"
     },
     {
       "id": "1ba999c27fc993eb4b05c6a7",
@@ -1275,6 +1316,34 @@
       "google_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPVVlwVjFyNi1hSWVraUpSVzllM1VzNnU1Rm5mRnRGa1Q2UWtEU2QtdjJyUXVQSHpzY0xrVUxmTnYwcWdMdXRlQnlJTmdQSEx2ajB2ejhpR3JFbjViQ2c0djZ5Y2l2d1p0RFNHa1pySFoySjJFMmZaeVBzOWdMX3pKdjhWUlpRSXRiSERSd2Fxa3ZDd0s1?oc=5"
     },
     {
+      "id": "dedd97c36c5887ad8b9e1e73",
+      "title": "FritzBox: Fritz! garantiert mindestens sechs Jahre Updates für neue Router",
+      "url": "https://www.computerbase.de/news/internet/fritzbox-fritz-garantiert-mindestens-sechs-jahre-updates-fuer-neue-router.100101/",
+      "description": "",
+      "publisher": "ComputerBase",
+      "source_url": "https://www.computerbase.de",
+      "topic": "Technologie",
+      "topics": [
+        "Technologie"
+      ],
+      "published": "2026-10-31T09:00:00Z",
+      "google_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPV1hEWndLc1B3NUpic1BCeFJLMXhEUWpuREtaODNKZW9NY0psdHRKWUJSeW16eU5hNkdHc2JHMTltSmdTc3h6eG90TTVnODVyaXVuOV9FN2pOWm1CY09QVzFadGNEVFIyaGZZLTlpa1VTMEtkaEoyNTRlX2JPYlZzek9vM2M1dFM5aUVzMTM5V1FlZ1ZZNFROdVpneDNfbXFmalBuSGZkUzM5TFVVYUNoLVpEbms3bmNWNjBtYk5qOUw?oc=5"
+    },
+    {
+      "id": "c01eb0ec1795f571a0d30b49",
+      "title": "KI verdrängt Fotostudios, Canon warnt vor Preisanstieg – News der Woche 44/2026",
+      "url": "https://www.heise.de/news/KI-verdraengt-Fotostudios-Canon-warnt-vor-Preisanstieg-News-der-Woche-44-2026-11506308.html",
+      "description": "",
+      "publisher": "heise online",
+      "source_url": "https://www.heise.de",
+      "topic": "Technologie",
+      "topics": [
+        "Technologie"
+      ],
+      "published": "2026-10-31T09:00:00Z",
+      "google_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxORktHeUpVdXlUdmp1RzItODhJRjNDTmVna1dUXzYtSC1xVmk4TDlNX1hoek5Mb1VvSDV3allfelNLYXd1cDBnSE9xMVJRUmlORGZYcFpROERNMVZ3c2tIb2lPT091XzgtTmhMUlRveVhtcVJlb2xMaHh4YUJiTW5mcEx6OWNMdklCelY2Y045MkMyajBHS3Bib2NDM2ktREdVM0paMC1ta0gxSXdYMDhlazgxNzZGQXBJ?oc=5"
+    },
+    {
       "id": "5a299b7617bea2f7298eab07",
       "title": "KI im Recruiting: So findest du heraus, ob deine Bewerbung zuerst von einem Bot aussortiert wird",
       "url": "https://t3n.de/news/ki-im-recruiting-1769489/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
@@ -1299,20 +1368,6 @@
         "KI"
       ],
       "published": "2026-10-31T08:45:00Z"
-    },
-    {
-      "id": "3617d623a3012d34912910e2",
-      "title": "GenZ: Die Klagen der Schüler im Faktencheck",
-      "url": "https://www.faz.net/aktuell/wirtschaft/arm-und-reich/genz-die-klagen-der-schueler-im-faktencheck-accg-201628286.html",
-      "description": "",
-      "publisher": "FAZ",
-      "source_url": "https://www.faz.net",
-      "topic": "Top-News",
-      "topics": [
-        "Top-News"
-      ],
-      "published": "2026-10-31T08:35:47Z",
-      "google_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQeDlrN3ZQZ195aTZtZ3gwUFVDcmwxamY0U19wMC0ySFhMY3hBV2Z6TVd2NE5FYkRKeG1FWmdDUmlDUHk2WGRsZ1huSmhObExlODg2dDJRV01OWS1yQzk4eDFfc1BLcUx2RkpuZVBuV0dmNll6OXlTeVVzbmpzaEFaT2JtTVB2bWtqUVEwaVdZWjg2TUxHNExlMUZMV0FkVEY5aG5sQmx2eDd3Nm50VFZaYkpfRFd1bmM?oc=5"
     },
     {
       "id": "2d450c5eed277a769ade0058",
@@ -1343,19 +1398,6 @@
       "google_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPc0pHX0xCZlgzbDNzTTNCMm5qSExITGhOcERZcDQyUmhmZ1djd2dmZmZrR3FtUDhrNXlnemc4aXJRQl9FVndiYUlDU0V1c09jZTFkWXE0bDNMTktIN3R3S2VLeUxkSFhCX0FzNjJDblVrRDdsN3NObnRRRnRQRV9Bc19TVWJGUHloVnVEZ2pHbWl0U1hrMktSZGlB?oc=5"
     },
     {
-      "id": "f06fbd77a81832265302c172",
-      "title": "Kopf ab, Gehirn rein, Geist hochladen: 6 waghalsige Experimente für ein Leben ohne Körper",
-      "url": "https://t3n.de/news/6-gehirn-experimente-1769617/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
-      "description": "Die Suche nach dem ewigen kognitiven Leben geht weiter und bringt viele kuriose Auswüchse hervor. Wir stellen ein paar vor und geben eine Einordnung zu ihrer Umweiterlesen auf t3n.de",
-      "publisher": "t3n",
-      "source_url": "",
-      "topic": "Technologie",
-      "topics": [
-        "Technologie"
-      ],
-      "published": "2026-10-31T08:05:00Z"
-    },
-    {
       "id": "bcee347d24872e0c020cf3da",
       "title": "DirectX 12: Microsoft bringt größtes Raytracing-Update seit 2018",
       "url": "https://www.computerbase.de/news/gaming/directx-12-microsoft-bringt-groesstes-raytracing-update-seit-2018.100099/",
@@ -1382,20 +1424,6 @@
       ],
       "published": "2026-10-31T07:46:25Z",
       "google_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQcmNhRWhkOTVZYkliekJZRTNPeHZ5bjRmZGdQUm8yejVQaFNDbW8yLURmQzJ1RkhNNVIwUUVXTEFtbzZ1N3h5QlVkTkQ5Zk14bEFob0lpTmxwNTE2c3hwWEt0ZDJWY0FsLTRnWG5lLTZrOWI2U1RUV1ZfSDlXRkNsRXd5VUROcnRWd2lVN3loaGRhRDlLYWMxLTBQZWNrRE9GMWJ6LVRFd3V3enpIRElv?oc=5"
-    },
-    {
-      "id": "2e1dca20516dca6be3feb03d",
-      "title": "Geldanlage mit ChatGPT: Können Anleger den KI-Empfehlungen vertrauen?",
-      "url": "https://www.tagesschau.de/wirtschaft/finanzen/ki-geldanlage-chatgpt-anlagetipps-risiken-100.html",
-      "description": "",
-      "publisher": "tagesschau.de",
-      "source_url": "https://www.tagesschau.de",
-      "topic": "Wirtschaft",
-      "topics": [
-        "Wirtschaft"
-      ],
-      "published": "2026-10-31T07:45:00Z",
-      "google_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQdW11NTNPN2QxUVZwWUN4QTA1ZkpBNXNGS1NFYURBTksyZ0gyem92OWVMWmdmRC1aNzQ2dFVyU09UMmZNMm5hWkRROUxiVzdSTzk4UVBvVHh5Sk42ZGFwcVY2RThfSU9tMUdmamc1SEFKcC1OYm9NdFdhLXZFYWNDQXBDam9YbHNJZlJ1NTFaU3VvaWlpM0Q5RnFrbEI?oc=5"
     },
     {
       "id": "67ce2b043d493a9666f7f265",
@@ -1454,30 +1482,16 @@
       "google_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPNE1wUVB2Y0R2aWFXeENBN2lNV0o3V2JkOUM5RmlnR3VjVmprRENpRGtIMW5nU01YNHdPX1R3Y3FlNTJaWUlORFJaNTBtdDFVQVYwLVJEQ3dHWmszQjhVQmhjOGJYTVdPWUo5VlJFRllRRHNVUmU3SmFKdFBXM09GM2JXQkNaaDFvUTN6Mw?oc=5"
     },
     {
-      "id": "a24562451d30abaa1fb250f9",
-      "title": "Megatrend Folger: Amazon und Alphabet nach dem Absturz – was jetzt zählt",
-      "url": "https://www.deraktionaer.de/artikel/aktien/megatrend-folger-amazon-und-alphabet-nach-dem-absturz-was-jetzt-zaehlt-20429225.html",
-      "description": "",
-      "publisher": "Der Aktionär",
-      "source_url": "https://www.deraktionaer.de",
-      "topic": "Technologie",
-      "topics": [
-        "Technologie"
-      ],
-      "published": "2026-10-31T06:47:38Z",
-      "google_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPaGlxdmJIRnpsaTZxekRYaVcxZzd1RTNvS243b0s5ODdCNXhtMnYzeTMxOU1CaDl2eG5OWUR4d1VnSU1TWVg1UzBubDR3R0ZPREc2aDE2R2R3VVRNbm9fNXpJMTBRQXRkVDgyZk1yclFZX0JXbC1fU29adlJFaDRXcXJHc3lySjB4RFp6dHNuTUpodk1jb3FVOVRMSUwxVkRzWkdLdU9iQXBBWmdPd1p1UE9oUndqMTVzQXlldlZqcE1Ra3ZvZEE?oc=5"
-    },
-    {
       "id": "199cf9836f638265c5b8b94b",
       "title": "Stromnetzschwankung: Periodische Leistungsspitze im Netz hat dezentrale Ursache",
       "url": "https://www.golem.de/news/stromnetzschwankung-periodische-leistungsspitze-im-netz-hat-dezentrale-ursache-2610-214694.html",
       "description": "",
       "publisher": "Golem",
       "source_url": "https://www.golem.de",
-      "topic": "Technologie",
+      "topic": "Wirtschaft",
       "topics": [
-        "Technologie",
-        "Wirtschaft"
+        "Wirtschaft",
+        "Technologie"
       ],
       "published": "2026-10-31T06:45:01Z",
       "google_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQeG82TGtham5XR2lmWV9TYWhoYXFYbk9maTMxOTZWWGRsQVY5Rks5dF9ZYi1sbklnX3otOG43anBQYWRGNlEzNmRlVG5oXzExVC10YU1NSDE2SzFJbzVTdUJQd2I4bmtBbzV1LV9sOVQ3SFV6MzJCcU56cTVHcEpEMlViX25UeHpfRXR2N3RScWZfVDNpZUh2M3ZCQUlTa2hfZWVzV2N3MnY0YmtxWFBScEZmbG1DSlJ3amhtMjNB?oc=5"
@@ -1524,6 +1538,20 @@
       "google_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPdDAzTG1jOEh2amZCakVvQkdpRjdSTDdTVzE1VlBLZEU1cFRuRkhnZ2ZtdGo2SEY5MnN6aFI5X3NHcmdIOFVWMnNEcmFuVHRhTnpCbFpZUGVyRHZIMExrQWRJcE12UGxlNm9BYTVuaGlZSkRpV0VHQmVRbm81YzNMZm1vOHNvTDNZTEdlRFRtTGNGZw?oc=5"
     },
     {
+      "id": "e906fd8c3606a648582a1195",
+      "title": "Sternengeschichten: Planeten der zweiten Generation",
+      "url": "https://www.spektrum.de/podcast/planeten-der-zweiten-generation/2352053",
+      "description": "",
+      "publisher": "Spektrum der Wissenschaft",
+      "source_url": "https://www.spektrum.de",
+      "topic": "Wissenschaft",
+      "topics": [
+        "Wissenschaft"
+      ],
+      "published": "2026-10-31T06:22:48Z",
+      "google_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1vOFN4bmMzNzVybGpUbnljYzVsSVNRNVZjOW5QTWdzandCaXR2ZTJZcUtadEFFcjFlTzlTemlOcXN3OWlXTEZpaTVVVjFiUi1SS0N5MVlEcHAtTU9xcXlpVWY5NXIyVzhiWlhUaTJfR1JYOFViM2JCSDdMQQ?oc=5"
+    },
+    {
       "id": "eb22793332e3059b4eded3d7",
       "title": "MIT-Experiment: Forscher setzen 13 KI-Agenten auf einer einsamen Insel aus – und schauen 30 Stunden lang zu",
       "url": "https://t3n.de/news/mit-experiment-ki-einsame-insel-1769624",
@@ -1535,6 +1563,20 @@
         "KI"
       ],
       "published": "2026-10-31T06:20:00Z"
+    },
+    {
+      "id": "113b6b8feb5404cfa85df33c",
+      "title": "Sein Vater war der „Melitta-Mann“: Popstar Nico Santos nimmt es mit Humor",
+      "url": "https://www.abendblatt.de/hamburg/kultur/article413548471/sein-vater-war-der-melitta-mann-popstar-nico-santos-nimmt-es-mit-humor.html",
+      "description": "",
+      "publisher": "Hamburger Abendblatt",
+      "source_url": "https://www.abendblatt.de",
+      "topic": "Top-News",
+      "topics": [
+        "Top-News"
+      ],
+      "published": "2026-10-31T06:05:00Z",
+      "google_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNdGwybzJBdnA5UGNqYlBkdnZfNUNMZ2dFNWRlR3N2dnNJa1RxQjNiTEdZTXI5Sm9OZWY3RkdvOW1Ma0Ywd2QxdFRfNHhUc1lxQXF4bFpWb3hlUEwxdkxVbTdaOFVtU3RPdUZHRS1UbzZ3Tzk2bnZndnFwa3E2SFZwdFpxRWpXTnpmRFVlR0E3dXFMUWp1VEhTMlg0elpNZjBINmJ5bTNVUUVlakxXOXcwY2dCYkhJX1hidV9MWkdqYll4Q05qOWVOUVNPNzJlQQ?oc=5"
     },
     {
       "id": "290f16c328cdbb110a5a7c58",
@@ -1549,34 +1591,6 @@
       ],
       "published": "2026-10-31T05:41:01Z",
       "google_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOb0gxSC1IcXBSNnN4QTBjcWYxRnlpRVkzckQ2OXljeEtMUVhwWU9sa1FxUVVSWXBrV0l1V0lVUVFQT2tnUEtUSnJHX1U4eWFfSGIwVXR6LWd1aUtFdF9PZFdJeU9qMFRaS0JKSWFWOTlDVXlOeHNlUG9DbGtBc0NRYlFRZHA2X3hZ?oc=5"
-    },
-    {
-      "id": "1ac5392eaae332783fd1195d",
-      "title": "Gasversorgung in Deutschland: Tägliches Update zu Speichern, Preisen, Import und Verbrauch",
-      "url": "https://www.rnd.de/politik/gasversorgung-in-deutschland-taegliches-update-zu-preisen-speichern-import-und-verbrauch-stand-31-10-GYGJF6NA3FHIPJ4CEZ2K23H2JU.html",
-      "description": "",
-      "publisher": "RND.de",
-      "source_url": "https://www.rnd.de",
-      "topic": "Wirtschaft",
-      "topics": [
-        "Wirtschaft"
-      ],
-      "published": "2026-10-31T05:33:19Z",
-      "google_url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPekJhaTAyNk1xU1BHcDlpUmtyNXUzakVSSU1JOUtiVGo0cnhZTVBzazdWOWJDd0lUVVctSjFQOEZWNll2ZG5WUzJ0U21OelFxc3pGTE54cDlTcmhTR0pfdlFGU252TVJuQjN5azhxME90T1lGVHdQRHNPMXhRa0o5V3R2dU1NU1VCWFRjWld6ZzBnZkdTcG9Kb0RPZFdrM2FuWFI2ZlZCa0dlUE5UQU10TFJrVjhtQmFzM3BlWHcxSUdiR3ZMWnFRYUMxMzFvb2MtVkc2Ym1MaEl6cWJycWIwVkhSc2hZYy1sY01mc2hsSWs?oc=5"
-    },
-    {
-      "id": "db39024fb06a9c1cdf3f7faa",
-      "title": "Zwei verborgene Begleiter der Milchstraße in Daten des Rubin-Teleskops entdeckt",
-      "url": "https://www.scinexx.de/news/kosmos/zwei-verborgene-begleiter-der-milchstrasse-in-daten-des-rubin-teleskops-entdeckt/",
-      "description": "",
-      "publisher": "Scinexx",
-      "source_url": "https://www.scinexx.de",
-      "topic": "Wissenschaft",
-      "topics": [
-        "Wissenschaft"
-      ],
-      "published": "2026-10-31T05:32:22Z",
-      "google_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMk1LdGdGSkJuclN1NnJWZy1HYUctTlJkUVd3Um5IbVZFbnZTSXYyMEFqQ25xVXhqMmtzZmNJbUtZVEtmSGVZbUVzYnNEeUdELVlhcElObzZvZ3ZhWjJIbElXVWJoSm95TWozbEU2a3NVX0c2MGV3eENTV0txdXpOdm1HeVRRN0RCdU8zRkRydTR1Q1ZPZkVGQVd0NGtENmVQUlBTZUxuMk8xaHdvYXpiZUNJOVRtbFE?oc=5"
     },
     {
       "id": "79ffa10271e030c1a56c6929",
@@ -1649,20 +1663,6 @@
       "google_url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPdmVXMENaZHFwRkowR19zenRoM0RPM2FMZk93bVNCNTlGcDdqeDdiRE9neVo3S1FWUXlvZnlQY214ODBWbE5iQlhEOWIxTW4wRnk1UmtxekRGY21FRUpvNDRsbjJCYVB5X1FKRVBKZVp2S0pGN3YtRkQ2andodDkzRjVMWEtDU1h4X0hiTDFnQVdrUEJKbDU2UGZkbjhKNHNFWmpUYnA0RDZ4U3VpRkxmZ3NWR3FaR1JpQTU5UDdyQzVTbzVaS3F3Q0laU1MwSnVudlpRU2VqSQ?oc=5"
     },
     {
-      "id": "85fd137f85c504d4c03eb6c8",
-      "title": "Deutschland feiert einen Gründerboom – doch die Zahlen erzählen eine andere Geschichte",
-      "url": "https://www.nzz.ch/der-andere-blick/deutschland-feiert-einen-gruenderboom-die-zahlen-erzaehlen-eine-andere-geschichte-ld.10049663",
-      "description": "",
-      "publisher": "NZZ",
-      "source_url": "https://www.nzz.ch",
-      "topic": "Technologie",
-      "topics": [
-        "Technologie"
-      ],
-      "published": "2026-10-31T04:30:00Z",
-      "google_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPT3FoRlJoUDNCRzUycTRaS2lHOTZnOVpJZWt6Y25vT3c3Z3F6NXRGNmZxVHVHaDBQMjZ1SzQ4MXdDb25pWE5VZ25ST05QZ2xLNUxIQTczWjBoS3A3enpza3ItNVFZQlRmamZqMWxDTmF5M2d3RWxFR0FxTXcxb2Z5b3ZxaGdQdFVSaVNYT3dsbmdMbWtVcVREUVA5MzhJUGctaWpMMktBbjFHZ2JZMlp2NXVDYlRjM0xTc21JN2hoTFBIRG1zeXI5Ug?oc=5"
-    },
-    {
       "id": "15140db967955e3b54dd9c96",
       "title": "Bei der EZB wird die Lagarde-Nachfolge wohl zum Duell Falke gegen Taube, Niederländer gegen Spanier",
       "url": "https://www.nzz.ch/wirtschaft/die-nachfolge-von-christine-lagarde-an-der-spitze-der-ezb-wird-wohl-zum-duell-zweier-kandidaten-spanier-gegen-niederlaender-ld.10049327",
@@ -1675,6 +1675,21 @@
       ],
       "published": "2026-10-31T04:30:00Z",
       "google_url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNTWQ3WEJBM1dKTm14QXJEc05neDVUWGVLTGh2V2ZkX3M5eENrbUM0SDd2SUhUOXpEMmxRMThsTHI5M3hxM0xUUDktMEVoQV9iRFFVTm1vWDBnb0M1R25wMnJvRkxnVkR3Vmh3bVphQkVzQUJ0YlRRR3NEdjlrX3h3SjlFaGxaUjUxU1dpWThXVDJsbEtjUmUyUkoyTEF1SzVFNEhqaTBRWlE3Q0lWQTFGQlpmM0dzZnlSTHJsSzk3aG9IaXFBNW5xYklPTVVoQy1reERvLWM1M3NNNWVfT3dwLXAtY0drb1ZOLXFNdnVGVWdUcWQ2RDNlbQ?oc=5"
+    },
+    {
+      "id": "85fd137f85c504d4c03eb6c8",
+      "title": "Deutschland feiert einen Gründerboom – doch die Zahlen erzählen eine andere Geschichte",
+      "url": "https://www.nzz.ch/der-andere-blick/deutschland-feiert-einen-gruenderboom-die-zahlen-erzaehlen-eine-andere-geschichte-ld.10049663",
+      "description": "",
+      "publisher": "NZZ",
+      "source_url": "https://www.nzz.ch",
+      "topic": "Wirtschaft",
+      "topics": [
+        "Wirtschaft",
+        "Technologie"
+      ],
+      "published": "2026-10-31T04:30:00Z",
+      "google_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPT3FoRlJoUDNCRzUycTRaS2lHOTZnOVpJZWt6Y25vT3c3Z3F6NXRGNmZxVHVHaDBQMjZ1SzQ4MXdDb25pWE5VZ25ST05QZ2xLNUxIQTczWjBoS3A3enpza3ItNVFZQlRmamZqMWxDTmF5M2d3RWxFR0FxTXcxb2Z5b3ZxaGdQdFVSaVNYT3dsbmdMbWtVcVREUVA5MzhJUGctaWpMMktBbjFHZ2JZMlp2NXVDYlRjM0xTc21JN2hoTFBIRG1zeXI5Ug?oc=5"
     },
     {
       "id": "3b763951a1601add54004832",
@@ -1703,6 +1718,20 @@
       ],
       "published": "2026-10-31T04:00:00Z",
       "google_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQX25CcUFELXRfdmJsQW9OZW5xLTV4cjlyS2I2WDlZdkhpYUx6V3pHc0ptNUR5V0dhZWRDWHlFSEJZME9CTldGS0tvMW1nTVBGZG9YSE9tYjEyenRZMFpKSzFfamlFa1VyaHpQNVAzTFd6R0htdDRzdHBkZ1hKX0ljcGY3Q29Pb1FPQVk1MlowY0ZtVFVEMDNXNEV2djg3ZTJBbG85MWhOOTBTTTZKV0NwZXlPaWp1eENCank4?oc=5"
+    },
+    {
+      "id": "45b5a7b4398c845d8eb20c81",
+      "title": "Handel mit wilden Arten ist größer als gedacht",
+      "url": "https://web.de/magazine/wissen/natur-umwelt/handel-wilden-arten-groesser-gedacht-42895142",
+      "description": "",
+      "publisher": "WEB.DE",
+      "source_url": "https://web.de",
+      "topic": "Wissenschaft",
+      "topics": [
+        "Wissenschaft"
+      ],
+      "published": "2026-10-31T03:04:51Z",
+      "google_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOalNpLWZNQ2pBNUNTMmFhYVZMbW1ISHdzVDFaQ3I0UXpnREdNcjlrZ1k0NDVJdmRHVGM2blVVdjl0cjFtVEl0MmVQcEhfVU5NdVdrOXEzYzdFbmY3YUVkTXpKRzdaUTNMb2ZnUm0ydU5rNERBbzZ6d0FKMF9iMHVWWkhpYVdtWEk1b25nTXM1SS1sajA?oc=5"
     },
     {
       "id": "e21e91d790c8469ac6d260ef",
@@ -1817,20 +1846,6 @@
       "google_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOeW54cUR0V1NmSDdTLTd2Q01DZUdqN1NFUUxCazM0Zy14Z3U4NXZhTk5lUHpKRkdyZGdEMmtwRHNLTlllVVNCOG96TXNsdENlalkwR1hwYWdPRVRqYUYzaXgyUHp3V25zdWFUTGYtaWdNV0N5OG14ZG83MWJteGxXQjNaMGFvVzhMNm9TbHJoT29EQTN6bmlMT3FIS3B6Nk5S?oc=5"
     },
     {
-      "id": "000c5f1a37175b881ff617be",
-      "title": "OpenAI-Chef: Arbeitsspeicher in Client-PCs eine \"schreckliche\" Idee",
-      "url": "https://winfuture.de/news,162329.html",
-      "description": "",
-      "publisher": "WinFuture",
-      "source_url": "https://winfuture.de",
-      "topic": "KI",
-      "topics": [
-        "KI"
-      ],
-      "published": "2026-10-30T19:17:00Z",
-      "google_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5pZ3M4LW9ZbFZjaUxVR3Rhc1AzMnF1YU9jSFVaN2RsSzJDM1N5Y3FHRVMzSDQ1Um13Q3h3aVBqRVhic2pnQTBOV2pvZm96QQ?oc=5"
-    },
-    {
       "id": "a83cd18123820b35449ea011",
       "title": "OpenAI will ein gemeinsames Robots.txt-Signal für Präferenzen zum KI-Training berücksichtigen",
       "url": "https://www.unite.ai/de/openai-to-honor-shared-robots-txt-signal-for-ai-training-preferences/",
@@ -1900,20 +1915,6 @@
       "google_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQeVVpOU9sZF81cFJSQWlKODZrN0RlUEtGcnRVbm5lU2IzOXgzZlJGMWo5b2NERmtESWY5bDFqWDgxV0hNRjFKS3pKYTJuaUZmMFlHSDgzOTRLNlV4TDM2NnVzYVVOaWk5cnVSQ3JXUFFWd0hJZlVHRG8tQ0FSSmtYVm9XZFRMNzdtWVVkTU1pcGp1bnh5dGhaUXJQc0F3d2lVZGFjcVpOUGVYaDhXVUVpeTBFSGFYb3dqZ0RmYkx5WXRzZ0xnVnJVdjBB?oc=5"
     },
     {
-      "id": "99f41b78ef5adcf366861a1a",
-      "title": "Künstliche Intelligenz: Wer soll das bezahlen?",
-      "url": "https://www.dw.com/de/k%C3%BCnstliche-intelligenz-wer-soll-das-bezahlen/audio-79232629",
-      "description": "",
-      "publisher": "DW.com",
-      "source_url": "https://www.dw.com",
-      "topic": "KI",
-      "topics": [
-        "KI"
-      ],
-      "published": "2026-10-30T18:09:42Z",
-      "google_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQYjU2MXk4OHJPVTZiR3QtOHk0Q1U0NG5TUHJ6SDQ5dkM5bzFsWkRDdTZpZjdZNHdkYjFFcEQ4NWZjZF9ZUXRBMzlscTQ5OWpPck42UWdnaHJQVTdoSFgxTHJQcDg5NTE3V0l6N0M3dFZ3dXRST1NJaG9mdFhRYW10WkF4ZFRLNW55anN0TFlzRQ?oc=5"
-    },
-    {
       "id": "22c659268bc32e17c6b0501d",
       "title": "„Ich verstehe die Leute nicht, die sich noch eine Gasheizung kaufen“",
       "url": "https://rp-online.de/nrw/staedte/moenchengladbach/moenchengladbach-paar-zeigt-haus-mit-waermepumpe-und-pv-anlage_aid-154456777",
@@ -1970,20 +1971,6 @@
       "google_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQWGdIS1E4TlZLOW9jVDNhN0l0bUpvUzNFMkFGelRyTTUzY2tlekJ2V0toaFU2QkxtQU1WQWhoYktwZ1o4UzhNeDlubjRGSGd1TXJnMnhDdnB1eEdNMGR6R25jWFVXTmI2bUk2T0ZpemNvWEVqaDlmRW9Yb2xqd3V0cndfU0RsclhKdW9NM1BpaC04dmtrN1laSDg2VTRDSU5qWjFiZmxUZmRfdUExT1A5a0VpYw?oc=5"
     },
     {
-      "id": "5fc3c10a5e1ffe10ec5e96d8",
-      "title": "Einigung zur Abschaffung der Einspeisevergütung in Sicht: EEG-Kompromiss liegt vor",
-      "url": "https://www.t-online.de/finanzen/energie/id_101505866/einspeiseverguetung-wird-abgeschafft-eeg-kompromiss-steht-bevor.html",
-      "description": "",
-      "publisher": "T-Online",
-      "source_url": "https://www.t-online.de",
-      "topic": "Technologie",
-      "topics": [
-        "Technologie"
-      ],
-      "published": "2026-10-30T17:10:21Z",
-      "google_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPVTF6N3I4UklRNVRSaUxhNFQ4WWpLMHMyTWJOcG4xbGRqeHB5UTl0cjZpU0FQczJrd1FlN3JtT2U3Y1ZobzVXcllwYUE5QWJveTRkRTFZRjRNU2tWeFRjRWM4NC1TT1BxZXNHRW42T3NBSjE2RE5MNldpX3VYRl8zeWV2TEJzdWhiSXNkaXhVUlliUVpRRGdWVmkwbHBvdndpWi0yRHpXOHl4UWR6WUo5NHNPejgxdzlMeUVoQVgwcw?oc=5"
-    },
-    {
       "id": "09cd13fb64aee1a7c3afab0c",
       "title": "Einigung zur Abschaffung der Einspeisevergütung in Sicht: Kompromiss liegt vor",
       "url": "https://www.t-online.de/finanzen/energie/id_101505866/einspeiseverguetung-wird-abgeschafft-kompromiss-beim-eeg-steht-bevor.html",
@@ -1992,7 +1979,8 @@
       "source_url": "https://www.t-online.de",
       "topic": "Wirtschaft",
       "topics": [
-        "Wirtschaft"
+        "Wirtschaft",
+        "Technologie"
       ],
       "published": "2026-10-30T17:10:21Z",
       "google_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOdU9mdU15UVVIQlg4NEZWbExwanJxN09zT0l0aTRRZ1NJWFY5STNSZThKbzQ0aHdIQXdsYXdjSjBucS1mLWtVU21HaUVJX09OcmxxaGMxeDB3NGxLYlFRRlhScDNXNnVGVXNPUW1FZDhIeHFmX3NLMjhPSXRFWnktR05BX2NQMzVIVTg2THk2em5VVkFBOHRNcE81RDRwZEV5eTQtNkNvWm0zMjM0Y25zWTA3NlJDdF90SE1JUzI3VjVIRTU1dHc?oc=5"
@@ -2040,6 +2028,34 @@
       "google_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOX1ZjY1c4dFM2ZFRqY1I2M2ZIY2JEU1lWdERDQml4UGFSa04tLXhJc0V1cU5WWmVEb1ZYTHhoOTZxU1JkNWlZNjRLVFNUZDlpUU4zeEp2emkzc2I3aU9GenEwRFE2MWR0Y3NtN0w3SEZLdWJPRm5UZ3E3Z3d3N3dMUy16RjQ0QjZxTGJWWW1PVnN3SDNFTGRNckVB?oc=5"
     },
     {
+      "id": "b2033534cb3e4320c4f992b4",
+      "title": "Künstliche Intelligenz: Das Ende des Selbstwertgefühls (Fröhlich am Freitag)",
+      "url": "https://www.gameswirtschaft.de/meinung/froehlich-am-freitag-2026-44-ki-selbstwertgefuehl-301026/",
+      "description": "",
+      "publisher": "GamesWirtschaft.de",
+      "source_url": "https://www.gameswirtschaft.de",
+      "topic": "KI",
+      "topics": [
+        "KI"
+      ],
+      "published": "2026-10-30T16:41:23Z",
+      "google_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSmlaaWpDVlppRU1NbVAzWlhlVEVQclhCTml1TWxtNk95c3VYbGp0WmcxSTh1TFIxUDcxM2lOVzgyczQyY0lBeGNDajA1WGpEc1Fya1hRRFdoV3VWWk92WnNsQzVhTWVmbU9mTWVRRHI5SVpkODNzZ0JiUldDVlpWakoyby1JdjlqUW12eF82S3d6OVFLdnBGWlhFY3Y?oc=5"
+    },
+    {
+      "id": "8679e7120dcf289d9350f62d",
+      "title": "215 Millionen Euro Förderung: Chip-Fabrik im Norden soll ausgebaut werden",
+      "url": "https://www.ndr.de/nachrichten/schleswig-holstein/dithmarschen_steinburg/millionen-fuer-chip-fabrik-vishay-baut-werk-in-itzehoe-aus,chipfabrik-110.html",
+      "description": "",
+      "publisher": "NDR.de",
+      "source_url": "https://www.ndr.de",
+      "topic": "Wirtschaft",
+      "topics": [
+        "Wirtschaft"
+      ],
+      "published": "2026-10-30T16:34:00Z",
+      "google_url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNOHp5WmpraG13VEhtWEpQLVo1MWVtcmR6U0JnR1BPRzJpZktFTmtqdnZ3MUMwb3BiX1JpR0lCb204ZWpsNWVBczlYT3p5bmlMY05xVFdxdGk1SXBzcHFObzRTeXJZYkJwQlJiRnBSQTlqZTF0WnJhd3RfakJvSXNRV0ZOdDRfTHR6bmhRaEhNbGxjWl9BSnBnQVRuTTZxc1JaWFpSMjNicDQ1QXJGYW0xUTBGaU9tdzlkMjBMTTQ2ZEk5VUQ3ZmpXdzNKcUpCdUNVWS00dFZQaGpMYU5SYnEwWFpQblZrUQ?oc=5"
+    },
+    {
       "id": "93d43f365dc13b5d7ac561b5",
       "title": "Tesla-Besitzer in Südkorea umgingen Sperren für Full Self Driving",
       "url": "https://www.heise.de/news/Tesla-Besitzer-in-Suedkorea-nutzten-illegal-Full-Self-Driving-11506444.html",
@@ -2068,20 +2084,6 @@
       "google_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdElObjhqYzctLVFmZG13eGx0LTFMRHBvSmpCdmo4UHpuRjZRYnlGT0wxMnBxbkpMYXhyUk5lbXhGTlFTSm9UQWxmaU9mb1pja1pPQnp3SmcyTU10UzlFSEczRGxDSW94LW1UYzJUUHZQM29ITkhaM1ViUTBDYWNaTVNOSXZ0aEZOYmRISGZnQmZPUWg1TjJZcnFVdFdXMEtBaGxYNzhfS3cwaXpMSGc?oc=5"
     },
     {
-      "id": "9d87bfd2e618dbb6b17725c1",
-      "title": "Werke in Taiwan: Fünffaches Jahresgehalt als Bonus für Micron-Mitarbeiter",
-      "url": "https://www.golem.de/news/werk-in-taiwan-einige-micron-mitarbeiter-bekommen-ueber-fuenf-jahresgehaelter-bonus-2610-214699.html",
-      "description": "",
-      "publisher": "Golem",
-      "source_url": "https://www.golem.de",
-      "topic": "Technologie",
-      "topics": [
-        "Technologie"
-      ],
-      "published": "2026-10-30T16:05:01Z",
-      "google_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNZTNPM3hJenZuczlSUEFNTDFIb3UtSk1QVmtOMDVZeG9hTkxudkR1T2F6LVpHSTJWQnVmMDJvOFI0Y1pwREkzS1BaX0tWcXlXMjhBRGdOUGVPdlZVTm5Od000azJkRFYwUlRJU204Q0R6NDRsVDNBVEhfSkwtZnlKdWtLUEtVRjhadFhqaXNmU3lzNnFnMlRLamFqYlNLN09Pa2NBQVF6dmpXeVRWaWFHTW1QTXowbjNuQW5CeUFHUnZ5RTcy?oc=5"
-    },
-    {
       "id": "39d94f46a587fcbb2e416045",
       "title": "Insolvenz wegen Galeria-Pleite: Jetzt trifft es 150 Jahre altes Traditionsunternehmen",
       "url": "https://www.rosenheim24.de/deutschland/insolvenz-wegen-galeria-pleite-jetzt-trifft-es-150-jahre-altes-traditionsunternehmen-94566923.html",
@@ -2108,6 +2110,20 @@
       ],
       "published": "2026-10-30T15:51:00Z",
       "google_url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNd2N5QkhtQzh3RE1JYVhfQmYxa3NQTGlTZmFadFRwcmI5RjdTdjFzdTU3T3BjX0Jua1h1WExhenFNb3l0MnpNeVdPd3dnWmpoMTduUVhIb1R6Y1dyb0hzNkcwcmxnVnNzNmstWkxVeUQtbzlDMElQZW1XUWkyMkxBSDJfaG1OYXZQOHJoSzJIVDVqRkNBeG5sUjlKVTNXbDNkRE92WVhRWVo1eWNuaHFqNFV5SUNYNEsxeEE2b1R1Y3otWktIakhIbjVBTG9Gd2lueGx0dlZIS0l5SnRVU3hsSENweXFyQl9LeWNEMHh3ZExzM3Y5UTk4?oc=5"
+    },
+    {
+      "id": "62afd48d5846858ece346cc0",
+      "title": "Cloud Rebuild: Windows-Feature kann PC direkt übers Internet neu installieren",
+      "url": "https://www.golem.de/news/cloud-rebuild-windows-feature-kann-pc-direkt-uebers-internet-neu-installieren-2610-214698.html",
+      "description": "",
+      "publisher": "Golem",
+      "source_url": "https://www.golem.de",
+      "topic": "Technologie",
+      "topics": [
+        "Technologie"
+      ],
+      "published": "2026-10-30T15:41:02Z",
+      "google_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUERIQmxzbzBvem9XUXVXY1BRM255YklqUmFuaW1iSURJbGZtUDN5Y3dyQ3RLcDNNX2MzUGVrOEg5ZTFQRVJ0NmRDV3JLZklhMnhFSkFUMlp0S3ktNHNINkhROVpHRWJMWU1kT3RNU0FsSmxnbUFuOTNreXhmRTNJdFJ2NHZYYnQ5Q3hWQk5LMWYxdWU3N2w1TDk5VkozY1RRa2p5SlNtYm1xYTJiQnN3MEluVmwzOE5vWmZiSg?oc=5"
     },
     {
       "id": "4c30a9e1929b649b376ed68a",
@@ -2192,20 +2208,6 @@
       ],
       "published": "2026-10-30T15:16:41Z",
       "google_url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOdU9wMXFPXzhTRG5vRktUZ0hMU0N2amtaeFJhSy1lVWFvb2ZNVjdhdEd1aWY5V2h4QkJsQTZoc3R2VlQ0enh0Wm1SNnlOTG9NbjBFV1BYTmdxYnAwUlBLNGZORWY1UHp2VWZoUVBsNVp1WjBRNDV2YUJOZnY1OWtlWlVrUC15RjE5TVpRbm9INnRha2YyWjZCNkZYbFk5Wm1wcWJvZHh2SGp4X2tmMExwSFpPRlYtdFRwX2YtMHA3dUZzTUZnU3A3NXNLck9XWWlBVDFjZnVlMlVVSEE?oc=5"
-    },
-    {
-      "id": "a750d236acb401324109efd0",
-      "title": "Rufus 4.16 kann ausprobiert werden – mit Sicherheitskorrekturen und mehr",
-      "url": "https://www.deskmodder.de/blog/2026/10/30/rufus-4-16-kann-ausprobiert-werden-mit-sicherheitskorrekturen-und-mehr/",
-      "description": "",
-      "publisher": "Deskmodder.de",
-      "source_url": "https://www.deskmodder.de",
-      "topic": "Technologie",
-      "topics": [
-        "Technologie"
-      ],
-      "published": "2026-10-30T15:08:33Z",
-      "google_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNNVJpcnZQb255Y3lkTFpiejViZi0yWndxN05WeG1YZFduaWJVbmJSMlU4MEI1eEt2bmYwWmJqbWJ6Z3I1N3NvRHFmWnIzbDRYSXQ2dWRRNVQ1UnpZZUdTWFd3RUNHTThCQ3FtZTBCWElFck5wQlNic0gwdzN6SGxuSUNIaHYxTVBTVlJLQmVFOHRpRFlOLWpRTV96OFg2VWNHamFSMkVVVnRPSjdBai1TcWxtNA?oc=5"
     },
     {
       "id": "7ea71b76e3f7c8fa0e5f229a",
@@ -2334,6 +2336,20 @@
       "google_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQWHJqdzBNNXllRlFvYnA5Y01xRXZEdE9jRHNwZlVLQVlJbFFIVUgtUlgwM0JsbDFaX2VITW5BME4xVk1zd2lvWktpZS0zVm8tN2V2SVM0TjZSS213a1h1a2h3UTF6V0NuVS1Kd25wU01KaExDUk83d3lxdDhSc1VFUm1kNEgzU3B6M041MjQwdGhnOVU3QUcxYkhWMnp5c1pOdVhCSw?oc=5"
     },
     {
+      "id": "443671b4af003d7dc28378b5",
+      "title": "USB-C-Kabelset: Vier Kabel für nur elf Euro bei Amazon",
+      "url": "https://www.t-online.de/ratgeber/deals/technik-deals/id_101505376/usb-c-kabelset-vier-kabel-fuer-nur-elf-euro-bei-amazon.html",
+      "description": "",
+      "publisher": "T-Online",
+      "source_url": "https://www.t-online.de",
+      "topic": "Technologie",
+      "topics": [
+        "Technologie"
+      ],
+      "published": "2026-10-30T14:04:19Z",
+      "google_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQX1ZsTzN4TWREVllJTEV1eTJjb0ROeWlpZHQzRHEyR0Y4Ml9UTTJjenk4elJZSWlURDZ6dEN2VXdkdDR4OUpDeUFGcWpnenpsTVB3UTVGaVZNYndxZ1JqMVQ5Tm4xTDF3SGQyN3ItYTd6ZnFTZVZmNWZPMEo0V2c2UkI0MDNYYXM5OVVEX0JDalctdzhqT2ZPY0RNYWVoX2VuT2FzbU9ob0R3aTBmT3Y4ZVJNOUNza25odUtoOUcyODdIRUE?oc=5"
+    },
+    {
       "id": "0c2fa131856c7492915a772e",
       "title": "OpenAI verdoppelt ausgewählte Nutzungslimits und aktualisiert KI-Ziele",
       "url": "https://www.heise.de/news/OpenAI-verdoppelt-ausgewaehlte-Nutzungslimits-und-aktualisiert-KI-Ziele-11506206.html",
@@ -2348,20 +2364,6 @@
       "google_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNWmtrUUlaOUlpYVI5QmhlZDY1X0ttRXQ5R0RoOEpfX0pIdGotVGotS2k2Rm1LU0tzMHlCdWlRcnE4TEFzdFJEb1lPTThYT05QakpzeUJqRGwwVlZTTFFUenFIR1Y4bndwSWo3LUE0RzVjMnYzVnZuLWJUVnU0TXQ0aWVOd0I0UWZuR19rZVJFdUhZX0hMQ3RTZEZTeWY2NU8xcDR2ZXVtZXluamJocWFETg?oc=5"
     },
     {
-      "id": "c96e74b2851850c08c15911b",
-      "title": "FRITZ! Produktunterstützung jetzt mit \"Updates verfügbar bis\"",
-      "url": "https://www.deskmodder.de/blog/2026/10/30/fritz-produktunterstuetzung-jetzt-mit-updates-verfuegbar-bis/",
-      "description": "",
-      "publisher": "Deskmodder.de",
-      "source_url": "https://www.deskmodder.de",
-      "topic": "Technologie",
-      "topics": [
-        "Technologie"
-      ],
-      "published": "2026-10-30T14:01:34Z",
-      "google_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQUnNfRFh6N0ljdzRHX3FjQ2xnWW1YeGJRaVZycTQ0NFFQWU84MTk4alpOU1NFOGNRT2lBaFBWNXc1c0ItY2dKWjlWNXlvaUVmb3NlU0I4T3RSeUJ3SWNQaXpPWDBFdDVscGsycEl1ZkVMd0swdnZCLXlEM1h5dlNEVTF3b0h6S0JBUVFITFhSbl9ETmpvdGZwb2pkWlkxZXBmZnFjQnZn?oc=5"
-    },
-    {
       "id": "84e010c71b7ec7f7557aedf5",
       "title": "Lernen mit Kopf, Herz und Hand",
       "url": "https://uni-freiburg.de/lernen-mit-kopf-herz-und-hand/",
@@ -2374,20 +2376,6 @@
       ],
       "published": "2026-10-30T14:01:14Z",
       "google_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE93SlA4bWpIbmJsVnBhOUxVRXRmRFBEekRNSEJRVVgxWklGMTNPVER0YkpxbkdxRExLcjNTZ1JsdkpLWEtabDVOSnVyUlFSYi1hUEVOLWFYWnMyWUZPRnVNTnhnUU8?oc=5"
-    },
-    {
-      "id": "7a13fb08a4bba5f305d37cbd",
-      "title": "Weltuntergang am 13. November? Warum uns bald die Apokalypse drohen soll",
-      "url": "https://www.rtl.de/news/freitag-der-13-november-warum-laut-einem-physiker-an-diesem-tag-die-welt-untergeht-id31477251.html",
-      "description": "",
-      "publisher": "RTL.de",
-      "source_url": "https://www.rtl.de",
-      "topic": "Wissenschaft",
-      "topics": [
-        "Wissenschaft"
-      ],
-      "published": "2026-10-30T13:59:40Z",
-      "google_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPRDVmVVh6cXZPeHpxc3BrdEJkNDRBR25NeEJHUlFHR3d0NXFIVlh6QnVJX2VOYThLNW4wRWJVRV9ySGhVaVhHU0N0cTJmNVhQYzZsaGg4Z3ZmY2JaeUM0R3RzbE85THI4ajFwek9jMHl5aW5OcnlnTEVBS09Yd3BXcWVqS21xSXVocEpvU1VpZXBKQ1RmNGZCNGFvSTBDTzJLa1p6dDBvekRxT3ZVejZUVjlHRlhBTUg2Tkd6UU5URQ?oc=5"
     },
     {
       "id": "32820636913876e63ecbd64d",
@@ -2459,6 +2447,20 @@
       "google_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9tRDFZcEp2eDBWT2hDUW1KSVJJQ25YRFBvT0xScnRHWDVscnRPUVIySlJGeml0ZG11aV9RUmhjRWM1QkFGWF9PU29fZVVmNktncUlQeHNvd0twdTBmMGlqdUpLRTFBVXZ5ZzhiUnZsOFFCbm9KblZRakh3?oc=5"
     },
     {
+      "id": "abb4e940f96476dd32dbda9f",
+      "title": "Energiepreise: Britischer ​Ölkonzern BP verdreifacht seinen Gewinn",
+      "url": "https://www.zeit.de/wirtschaft/2026-10/bp-quartalsgewinn-energiepreise-deepwater-horizon-gxe",
+      "description": "",
+      "publisher": "DIE ZEIT",
+      "source_url": "https://www.zeit.de",
+      "topic": "Wirtschaft",
+      "topics": [
+        "Wirtschaft"
+      ],
+      "published": "2026-10-30T12:13:26Z",
+      "google_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOd0lvYU1uZXVoelJXUy1Qc21RcS1JMjk0OWhwQmI1YXpqNDZlZjA4dDNhVDRpakJJVTREZXI2Zy1aVUVfTktGampWRTNtaEVPcWxyY0hkVEJsS3F3V0VyNWNxUXF0bW1nSWxRU0R6cW5xM0pwTThwb2NNYzhTakhxYjdhNTdOaUtkUkE2WWVWUU5GSVA5UnNv?oc=5"
+    },
+    {
       "id": "811b77097b88fd12669c6262",
       "title": "Erneut kritischer Bug in Linux TCP/IP aufgedeckt – Updates in Arbeit",
       "url": "https://www.heise.de/news/Erneut-kritischer-Bug-in-Linux-TCP-IP-aufgedeckt-Updates-in-Arbeit-11506050.html",
@@ -2473,18 +2475,18 @@
       "google_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQ2hJUUYxYVRHaEdmdjEyM1ZDMmYtdW1OMjVjUy1TWnFVR3doZVRVdTVQVFVxdGVZRWFUMW9iVWZEMVNNbW1PQnlVSllGc08zS1RFQVdibmN5UlJXS2ZhUG00OENTY3I1LV9vZkZPVkkxcjdfekZncEFSaWFEQ1hRZWlLMnB5R25CSGVaUWJac0R3UENZb1JHWTlKUUVCT2xoSGUtN19OZG5KUQ?oc=5"
     },
     {
-      "id": "45a548bfaa89e7100ae08d0d",
-      "title": "Smartphone-Markt: Absatz stürzt im dritten Quar­tal auf tiefsten Stand seit 2013",
-      "url": "https://www.computerbase.de/news/smartphones/smartphone-markt-absatz-stuerzt-im-dritten-quartal-auf-tiefsten-stand-seit-2013.100086/",
+      "id": "1808d31d8f18d33e5565f3be",
+      "title": "KI gegen Kartoffel-Krankheiten: Forscher will Schädlingen durch Klimawandel mit Drohnen trotzen",
+      "url": "https://www.ndr.de/nachrichten/mecklenburg-vorpommern/die-zukunft-der-kartoffel-in-mv-klimawandel-kosten-und-ki,kartoffel-180.html",
       "description": "",
-      "publisher": "ComputerBase",
-      "source_url": "https://www.computerbase.de",
-      "topic": "Technologie",
+      "publisher": "NDR.de",
+      "source_url": "https://www.ndr.de",
+      "topic": "Umwelt",
       "topics": [
-        "Technologie"
+        "Umwelt"
       ],
-      "published": "2026-10-30T12:08:00Z",
-      "google_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQOTVrZzg5TDBzc294ZFlpQnJ4WU9JUnR5NkVxdGY2enFWYmpmUXFEdDJCMlVUektUM3R5UjNsQ3JsdGVSZ2xZSkxHLWlMUERFWFE4M0h5MUxLR0wzclRzbnU2WVRzOUJPUXhwNEpoZW5RWFhyNlJubHd4STBMck1keWpnZW5JQzE1a0lRWE42em5oaGljUE0zcmE0MG8ydmlxSTZkT0NidFg4WnA3SVp5OFA3QklOX1BET2tQekVTVXpBeXI2cjRDNTVtQWk?oc=5"
+      "published": "2026-10-30T12:02:58Z",
+      "google_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQajAxNkNWZFB5cnRQWlBFNzhYWjJEaGJaQXhqeFJQbFRBVmVWeXd3cmZ5d0xBMXZGYXBoeFJLWDdHTEhPVWc3RDFnaTJEdjdtM1hJNUVpSXprcEdSeTZCOE11MTczemxOVHBuOHItTEtMQmhRWWZSTlplaFJXT0Z6WWdLREEwaUpXWThNY3l1UHlyWUFnTzBudlQ2bHZjUDZPWkNiTjhvdl9WeFdzTkFnRE56T3U5c1QyQ05YdVZEbkxGbHllMHpMNTRn?oc=5"
     },
     {
       "id": "fd3537dcf7cf1d5f1fd24f12",
@@ -2599,20 +2601,6 @@
       "google_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQV2syUzRiWFNiVU9FTnlGQ1R6WWl6VmlVbzh1X2ZzMXR6U214UWQxNWVVSHdFdkJoWmNPazJ4UUN1V3ZfcmVOYUt3Z0dNY1hkUWhlbFJpUmE5TlNMV29SQjA5SktNVGZDS1dkRDllUEdyc0s2aW9sSnNIb3RJbWFvcndTLXhRU3NrQThvSkhXaGEweFNiMDY5YVZZdTUzR0Z3Y2RPdWFfcTFpMzBZM1c0MWtld1BwNkx0NTlsUmVaRGVIR1Z5WmhoVUE4dw?oc=5"
     },
     {
-      "id": "e47f8e58b41456edfed89666",
-      "title": "Hensoldt-Aktie vor Quartalszahlen kaufen, verkaufen - oder ist sie fair bewertet?",
-      "url": "https://global.morningstar.com/de/aktien/hensoldt-aktie-vor-quartalszahlen-kaufen-verkaufen-oder-ist-sie-fair-bewertet-2",
-      "description": "",
-      "publisher": "Morningstar",
-      "source_url": "https://global.morningstar.com",
-      "topic": "Wirtschaft",
-      "topics": [
-        "Wirtschaft"
-      ],
-      "published": "2026-10-30T10:41:35Z",
-      "google_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNaE5lMkxFWnFkRDJudFpXaGg1aDJ0MEVkYlplWFlFNWhYS2lPOVJseDd0X0VGUWlkd1hpVVcxOFE3cmNiS1piV1VWaGM3dFVqZDBFNEh4emh0cXVTel9mTHRhTkZkNXA0QzUwaFMzOEgtTGxPWTQ4OGpldzhTY1RXNkZtczFYU3lXWUdxeWd1NVlfcWZ1VTFQUGh2WERCb1Rwd2JaWmxGR0g3ZlRRWDNHRUo1b1dfYnhDMnduXw?oc=5"
-    },
-    {
       "id": "384e4810d10948ee90e58880",
       "title": "Wer wenig fährt, bekommt BYDs großen Kombi mit 1.050 Kilometern Reichweite für 169 Euro im Monat",
       "url": "https://www.netzwelt.de/schnaeppchen/259437-byd-seal-6-leasing-angebote-deals-3010.html",
@@ -2697,18 +2685,18 @@
       "google_url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQOE04WTAyUFgtajVRb2VGUk5uQUNpWWJlZjdyQkgwdDBRYzlUMzJBLWFNeWMxYlJONHg2VnQ0aWhsbDdMR0JtQnZieGtMQVRtQ25BSldxeHRzX1NKbkF2Rnd5c0JGVVVfMHFYSW84YWJUQWZYbmJ2bHViUENkUEgwWlNDUlBDclM4Tk9PTXl0VFVMMDM3S0hlSWQ5ODZJdUNCV01ZOS05UlJUQ1JvV3FqekRXdl9OOGJKR0FuVm9JT3pjUXl1UTVkRVNTSDFTOXhTWFAzT2FLOEFnWmhQ?oc=5"
     },
     {
-      "id": "8bcc6d38d1813f909c9b11eb",
-      "title": "iPhone Duo im Test",
-      "url": "https://www.computerbase.de/artikel/smartphones/apple-iphone-duo-test.100026/",
+      "id": "1d6d59fd04b7130955e875ca",
+      "title": "Digitale Souveränität: Die Rechnung, die niemand macht",
+      "url": "https://www.heise.de/hintergrund/Digitale-Souveraenitaet-Die-Rechnung-die-niemand-macht-11505138.html",
       "description": "",
-      "publisher": "ComputerBase",
-      "source_url": "https://www.computerbase.de",
-      "topic": "Technologie",
+      "publisher": "heise online",
+      "source_url": "https://www.heise.de",
+      "topic": "Wirtschaft",
       "topics": [
-        "Technologie"
+        "Wirtschaft"
       ],
-      "published": "2026-10-30T10:00:00Z",
-      "google_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPQ2FIWjVJUVlVNS1XdjBiWUdoNGZySVNsVmpUdlZlLXlGYVZ6TlhuTlJnUF9UUG5SSXBhR2Ixd2wwMjM1alBMOXdEYWZzbEl4d2VjY3o1ZVpYUG16dWJOclY5SjhYRk1MTnljUlZVVXl4RGFFY3dpUDY4czdlM081SmREOA?oc=5"
+      "published": "2026-10-30T09:55:00Z",
+      "google_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQbG53el9fMzZIM1FLT2gwLXY5NEJkckNBRW11RG9UeUhMWWJuUURVcVZRbmlZVHVZeUhIMlJzWThBZXoyT1Q2N2RrNzg4OUgzN1RPd2dQaFA5M1pLSHNaeklTdnh4Yl9QbGRsdTdjLU4zWEZqLUg2dU5hN2Q1TUJiamRQMFhhandMVEp1YmRxNThiWDlSbkVEbUhfMk54T2R4TGFJ?oc=5"
     },
     {
       "id": "287be0a42bc68198ca7aa471",
@@ -2739,20 +2727,6 @@
       "google_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNWE5JMGxJQmE4QWJ0dHA2NFByWHIzcEpGX0ZBd0JacVpzLUlYZUJsNERnWm1zXzZBNG9ISUtkUl8yQXE4eFUtdmZ0RHFMa1hEamdSa0NIX19FSDRWVDRpVF9sQU03UmMwWmhGcXE0cFhPeC1oODJaYjFYVGJnNGUzMFVsYkY4NThlN1oxTmFQOVJrMFBUSGc?oc=5"
     },
     {
-      "id": "43494d99ed79b4e043e28687",
-      "title": "Ölpreise ziehen zum Monatsende an. Ölkonzerne melden Rekordgewinne (30.10.2026)",
-      "url": "https://www.esyoil.com/news/oelpreise-ziehen-zum-monatsende-an-rekordgewinne-in-der-oelbranche?id=109238",
-      "description": "",
-      "publisher": "esyoil",
-      "source_url": "https://www.esyoil.com",
-      "topic": "Wirtschaft",
-      "topics": [
-        "Wirtschaft"
-      ],
-      "published": "2026-10-30T09:09:00Z",
-      "google_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOb0hmM1FPUklaTmc0bVFtbG5vbmFnRjJDY0FJSE9oWXktNm5zemUxX0hEOGx0TlA3NWVfMzFxWXQ3ZktyaUYyOVFQcURXZUMzOXltRDJaZC01RHA3bmVjclJnZE9WQk9hbUxURFpjY191QlBwT05fLXp5UmdCNVQzQUQxUGtLZ2ZNMDNHdC1xdGVhVGlsUklFZVlWdS03c0hEWExLYVlqUQ?oc=5"
-    },
-    {
       "id": "008a64f54b408d5032e5bfc5",
       "title": "Angebliche OpenAI-Aktien vor dem Börsengang: So erkennen Sie Pre-IPO-Betrug und das können Geschädigte tun",
       "url": "https://www.anwalt.de/rechtstipps/angebliche-openai-aktien-vor-dem-boersengang-so-erkennen-sie-pre-ipo-betrug-und-das-koennen-geschaedigte-tun-288289.html",
@@ -2765,20 +2739,6 @@
       ],
       "published": "2026-10-30T08:48:47Z",
       "google_url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPcVFza3hMVnVQYlNBZGEwWmpwQmFKMDhraG5nVzU5ZnVqaDZyLVlwMFZGVVZzaTVFS0d5N2pYZ2YxUzY0aGJDbDZsZmw3UGJmdy1GbmxWdmpETURCQ1VZemtEdzltWmxGZzdqWm9Ta0IxS2duMnNKUzEzSXJmSTJCbGdQU3lyZWp1SHNrQlM1XzNLSUNMMUVUSnRwQjFFbERCd0l5Z3FrRGttaV9oYl9IczVmalJ3TmJMTFpjWUFIYm5lb21kSjBnS05wQWloUDFDaExUSE03M0owdGNzLTd5SGhoemlPY3VGZHc?oc=5"
-    },
-    {
-      "id": "31ecfd5ee324d12eac372695",
-      "title": "Škoda Epiq: Jetzt fällt der Einstiegspreis",
-      "url": "https://www.mobiflip.de/skoda-epiq-jetzt-faellt-der-einstiegspreis/",
-      "description": "",
-      "publisher": "mobiFlip",
-      "source_url": "https://www.mobiflip.de",
-      "topic": "Wirtschaft",
-      "topics": [
-        "Wirtschaft"
-      ],
-      "published": "2026-10-30T08:15:06Z",
-      "google_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9PdFk1cUh4T3ppUUVYbHc2VlZLVTBuTjRsVEpLYnZTQW5GLTBnSU9oMl95Q1NvODNRaUJnRUVLM3E3X1VFM3hQb3RheFBjZE5NN2lfZGFFTnFvNGw4SnFUbUFlSEpMVlAxTTRMMkM0MVN1TnRkZkHSAdcBQVVfeXFMTm41cjdQVWpoNWNfVmE1bVBZSkY0bEpuSzhNdDFoYzlsLVBlVWZxNjBZRFVtdTg3U1FCWHQtcERnVTg1VF9NSFFUeWJvM0xnSE5hT2hCdXV1Z0lzYzBfR1cta0pvOVJ4eWhTSDdFbHRiRFZHWGNlcE9fNEpOSjdTNzlVclR2dFR3U2Q0MWpJWV91UTVTRS11Mmc5LTI5T3ZHS1NCMV9iWVZaYzNLcEptN0ZvcXBhaXBXUTUzeW9iTFFBNENESWhuMkJqaTNpQk5Yc2M4MFJxV1k?oc=5"
     },
     {
       "id": "e47355922bc27d00482a0f46",
@@ -2809,11 +2769,25 @@
       "google_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE8zWi1TblhGVG1DSHFYTXJtY3ZfalFMSGNwMEF5cjVIMUI1bGRLY2pmcE91MjVTeFE5S3BXYk01UGR4UURsWWZVdVY4NVVsQk9NSXpVbHhZaEs0ZnFNV1hVYllKX0RGUDBoZF9Bd3BtSHhfRXVfX3dMVzJXeDNZUQ?oc=5"
     },
     {
+      "id": "d6a67328b9695ec167a0ad71",
+      "title": "Rating 2026: Diese Krankenkassen sind finanziell am besten aufgestellt",
+      "url": "https://www.handelsblatt.com/finanzen/banken-versicherungen/versicherer/rating-2026-diese-krankenkassen-sind-finanziell-am-besten-aufgestellt-01/100246777.html",
+      "description": "",
+      "publisher": "Handelsblatt",
+      "source_url": "https://www.handelsblatt.com",
+      "topic": "Wirtschaft",
+      "topics": [
+        "Wirtschaft"
+      ],
+      "published": "2026-10-30T07:19:00Z",
+      "google_url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNYlZkeTZvUW41U2xXbjlKekNqYXMwaUpfUU02dF9Zbzc4MHhJS1V3R2xsbDR4MEhHc2p3R1FyWGZsQTdkaDFHZk9GeFJSLVhzM09oY0F5MmhYSEhFTWd0c2lvajlROU11WG1BU00wdjJpQjhwMEdNUExaZ3ZySF9qSkdTd2FNMWIzTWYwb3Itb0FTWGxCS2pxdDFtaHJfSDJyUXNVVHlEcWJTQnhWRTdBZVNjRl80VFlpUDU1QnpfQjA4enZmOFExU0pxZ3JIOU03YzBRdEMzZVQyd011S3Y4VmY0ZVpUUlZKTDBtTkdGd3M?oc=5"
+    },
+    {
       "id": "2e9b6c31192a05928e22456e",
       "title": "Die 10 größten Klimasünder der Welt, Deutschland nicht mehr dabei",
       "url": "https://www.ingenieur.de/die-10-groessten-klimasuender-der-welt-deutschland-nicht-mehr-dabei-4fce51ea-f007-40e3-b601-3fdf04d454c2/",
       "description": "",
-      "publisher": "ingenieur.de",
+      "publisher": "Ingenieur.de",
       "source_url": "https://www.ingenieur.de",
       "topic": "Umwelt",
       "topics": [
@@ -2835,20 +2809,6 @@
       ],
       "published": "2026-10-30T06:33:43Z",
       "google_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPLW91MlRsMjFtSkdFeU5sYi0xVVhubHZybnZZUGIxZF9aaW5CUVJoN0pLX1g2VnlySkRaVWVfa045NEdPX1NtcUZkMkMxNjVzdG1ESGlfaldhWFp1dzJJbDZiOWQxaU43cDAwYlg5YWZjWDVxcThxZWQwTlZYWlVZRWdBdDNVQnBIcjJPQkVROXVWZzdXUUh3dmwwd0ZTbjFhTTBPcklB?oc=5"
-    },
-    {
-      "id": "1808d31d8f18d33e5565f3be",
-      "title": "KI gegen Kartoffel-Krankheiten: Forscher will Schädlingen durch Klimawandel mit Drohnen trotzen",
-      "url": "https://www.ndr.de/nachrichten/mecklenburg-vorpommern/die-zukunft-der-kartoffel-in-mv-klimawandel-kosten-und-ki,kartoffel-180.html",
-      "description": "",
-      "publisher": "NDR.de",
-      "source_url": "https://www.ndr.de",
-      "topic": "Umwelt",
-      "topics": [
-        "Umwelt"
-      ],
-      "published": "2026-10-30T06:04:00Z",
-      "google_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQajAxNkNWZFB5cnRQWlBFNzhYWjJEaGJaQXhqeFJQbFRBVmVWeXd3cmZ5d0xBMXZGYXBoeFJLWDdHTEhPVWc3RDFnaTJEdjdtM1hJNUVpSXprcEdSeTZCOE11MTczemxOVHBuOHItTEtMQmhRWWZSTlplaFJXT0Z6WWdLREEwaUpXWThNY3l1UHlyWUFnTzBudlQ2bHZjUDZPWkNiTjhvdl9WeFdzTkFnRE56T3U5c1QyQ05YdVZEbkxGbHllMHpMNTRn?oc=5"
     },
     {
       "id": "1c6dff228a885684cee65ef7",
@@ -2893,18 +2853,18 @@
       "google_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNUEZ5N1pJWWJVNWJPN0NJbnM3SnlXY19GN0JCNnJGR0p5SFRkbENpSnZHOHNOYlg1VF9JcGFFR2Y1ZjBHV19UM0NqTkQyMG91alBxc214Y3FZU0JjZVF4aUVxNTRsWkV3OTFYaDhZVGYyMmJxdWZ0ZXpYRlA5S1hfVHRsb0poODJhTnhwZnloSFBWQzRfMkNSQWJEbUZjcFNr?oc=5"
     },
     {
-      "id": "5c3f44acd1b1f8f57ef209bf",
-      "title": "Tief rote Zahlen bei VW + weitere Einschnitte bei der Pflege",
-      "url": "https://www.rnd.de/politik/tief-rote-zahlen-bei-vw-weitere-einschnitte-bei-der-pflege-HCBLQBCZSZBBFP63CHYMHNZSVE.html",
+      "id": "0dc62feccf301ba94b0d6a1e",
+      "title": "OpenAI verdoppelt ChatGPT-Nutzungslimits für Pro-Tarife und Business Premium",
+      "url": "https://the-decoder.de/openai-verdoppelt-chatgpt-nutzungslimits-fuer-pro-tarife-und-business-premium/",
       "description": "",
-      "publisher": "RND.de",
-      "source_url": "https://www.rnd.de",
-      "topic": "Wirtschaft",
+      "publisher": "The Decoder",
+      "source_url": "https://the-decoder.de",
+      "topic": "KI",
       "topics": [
-        "Wirtschaft"
+        "KI"
       ],
-      "published": "2026-10-30T03:55:31Z",
-      "google_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOQTZzakFvaGRLbVgxS1J5akVUb2RnWi15c21RbWhvWG5zUU5mLTZXQ3hfVHBMWXdpVHU5cmxicW5STDhGcTN0YVdVYnRJdURJeENReXVydlIyZ0NfZWNFQWZ5Z1FXRy1YQzk5TzNIOG9xRThvSEJzSlZIQ0ZEaUw1Ty1WR25veEhoV2t4dldlNEtZRFNpeWlhY0R5Z1R2ajBmSEdtYktnazJoeFZ2dF8yOEp1WVkzUDZV?oc=5"
+      "published": "2026-10-29T19:59:32Z",
+      "google_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPU3NpWEpaSG14LVNzOXUwbVZJMmtDcFNDYnZXNGRtT0dPdkVDejZvRVNmRThyVFFKQUdWMlNSSV85TDhQYnJzLWRiZlRKY1NuOVpYdjE4X211WWtCVEFsRndGSHZPQUROUGh2ckgwRHdzVUQzd2FpbkYwSUZCRjlKYU1XOWlha2V3UFhXV2RIYzFaZlV2TGQ2QWhqZHR0VjJBRkpV?oc=5"
     },
     {
       "id": "f92755aa73883f93df349a68",
@@ -3075,6 +3035,20 @@
       "google_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVGpCV1F6Tlg0eDZJY1dsdmNQNzNvQU1RM0kta3A1Q1hvNHBVOFpRNklNano5SkRoYW5QRjdUcVdxLVpoWkx4aXJ1RmhBVUplQ2tUTlJmd01rbV9GdkRLY3BzelhIZFBVRS1NeGFnSmZFdWxOQ3ppVUJPX3ZBVjdaUkhEMkU2MXM1WnR0RFFxN2lhdS1RV3FuVm11QWVRZFFybXY3THpwa2jSAbABQVVfeXFMT3R2ck5pZlhhT1lUY2wzZXI5RGIxMzhqSEg0dE9uRl9EbzdSNHZFM0xMMkdXUTVJb1BJMWJSS25Tb1ZJb3M0NUNDREY5NDNNVGpkVjlUci04bVpMX05jUkhPMkt3VE1CQWtFSUw5UU9rRVRhVzBnWDlEaE1YVFBxbGNHYkprM19YTk5hbk51Q09jaHJ5c1V1aW5uUzhmXzEyazZqN3JXeFdVbU44QUNsRVo?oc=5"
     },
     {
+      "id": "434f8d01a1871226a17e1224",
+      "title": "Chemie trifft Quantenphysik: Maßgeschneiderte Molekül-Qubits fürs Quanteninternet",
+      "url": "https://www.spektrum.de/news/massgeschneiderte-molekuel-qubits-fuers-quanteninternet/2351607",
+      "description": "",
+      "publisher": "Spektrum der Wissenschaft",
+      "source_url": "https://www.spektrum.de",
+      "topic": "Wissenschaft",
+      "topics": [
+        "Wissenschaft"
+      ],
+      "published": "2026-10-29T14:00:00Z",
+      "google_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVWJhUWdWSHgwMGVlY2JDekx4RVNwMExTX2ZvWk1TemlwbXNlVDQzSFZpd2x4YllQZTM3TDEtZ2tRMmRRdGdmbkNsQXNsb1VlZ0tjSmZ6WlF0REFIc05KU2lvUDI5TkRSWTQyNENscklINE9JdTlQSkpodzVIcTkwVEpsQlUwSFVxWl9EbWZzNEJTSWZOTlY0?oc=5"
+    },
+    {
       "id": "f01975e2994d15dad2b96bc3",
       "title": "IVG: Nachhaltigkeit lässt sich nicht an einem einzigen Wert messen",
       "url": "https://www.gabot.de/ansicht/ivg-nachhaltigkeit-laesst-sich-nicht-an-einem-einzigen-wert-messen-443636.html",
@@ -3146,7 +3120,7 @@
     },
     {
       "id": "02907f400c649bf0297081bf",
-      "title": "Text your dot: OpenAIs Agent jetzt per Textnachricht zu bedienen",
+      "title": "OpenAI Agent dot lässt sich jetzt per Textnachricht bedienen",
       "url": "https://onlinemarketing.de/technologie/openai-agent-dot-per-textnachricht-bedienen",
       "description": "",
       "publisher": "OnlineMarketing.de",
@@ -3227,20 +3201,6 @@
       ],
       "published": "2026-10-29T10:00:00Z",
       "google_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPVE40RWxyRm42MXNVNGhRR2kyRG5zVTF6UjFRd2xVelkweTJtX2xoblRSUUt1Z0wzX2FUclpwS3VYMWVhRTlfdF91RVVNeG02VjZpSURnU3VPOExTVTNfajFPQmUzdW1jZFAwaTNzNnJIYmswc1p4MHlCSnJsWlFJNnZ1bHhJSnZpcFhhdloyQldsSk5YY1E?oc=5"
-    },
-    {
-      "id": "ca26a3dbcc7418624972e0dc",
-      "title": "Primatenforschung: Was Ihr Chef mit einem Schimpansen gemeinsam hat",
-      "url": "https://www.spiegel.de/wissenschaft/natur/studie-zeigt-zusammenhang-zwischen-rang-und-risikobereitschaft-bei-schimpansen-und-menschen-a-c4f3cc91-6432-419e-8caa-54fb96364e49",
-      "description": "",
-      "publisher": "Spiegel",
-      "source_url": "https://www.spiegel.de",
-      "topic": "Wissenschaft",
-      "topics": [
-        "Wissenschaft"
-      ],
-      "published": "2026-10-29T09:56:00Z",
-      "google_url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOTnJwaGNscUFmQ3JEYXlTU1o2RmpEZ1RPaldsZWU0LWxjZWtoRnVKdzRqSHhwcWVBbUtwLVdEcGRKUGhqdjNOTHh1YlVJemlxOHlJSDhEWjVFTTRoVHNVQUxKTEZHUElKNWljLXZrQXJKa1RuekJNeXNIbGp4TlFUSUpKMXhQbWtueWREUVBia1JZVkN2Y0hHX2VHc3RIcFV5LUdsZEdIRUVnU0ljZGx4TUlaUVJONFJGNXQtNjI0YjAzOE1GWDR1SGhrbnRtVk5LdDJRU2k1M3NYOW92d2hUVHgwNXExQkVoSTEzT3dOQ1hoR2Z6QmNjN0x1dWYydzhJWFE?oc=5"
     },
     {
       "id": "85439a052e7caeb3d85d27ca",
@@ -3353,6 +3313,20 @@
       ],
       "published": "2026-10-29T06:01:00Z",
       "google_url": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxQQ2gzZkdIdlRXbEkzUUpJSEplZWxLU2o1bW5WU1F4RHd3TmNOelNhVnNtTERIVFBJLWxiYmxfQ1FNN3c0aVFkUzBFTW5oOGdlTkhKangxUTFuLW1iTlQwOXlFSW9KcTVDd2gzTUprREo0M25vaDl1QnNXby13Nzg4MmNhUzNvT2VfZkJOVjQ4QUVtQmZUd012SEk3aGNCeGZFMEU0MWxtbTJDMTlHSFNsSjFJdjQtWkxkOTBsMXgyZDdZNXJncUNrMlk0VTdxN0poN1N6djZpWE9EQjJ0b3FMQW5TV1JPTmt1T185TjQ1aE9nREo0NERIeGJBTXJTd3hTbGQwOGlrN3hkOVhCS2d0TnRHLUZGcUo4UnJOUlJ2R1ZoUjdGNzA1d2dqenNEMHhNOGJCX2NnakQ4eG1ra1M3Tklnelc3TnNXTHBPYy04V3Z5RFdEclkw?oc=5"
+    },
+    {
+      "id": "a4bc822faa34d013f912f4ec",
+      "title": "Angst ersetzt zu werden? Wie Menschen mit Behinderung mit KI arbeiten",
+      "url": "https://www.swr.de/swraktuell/rheinland-pfalz/trier/wie-in-einer-behinderten-werkstatt-in-der-eifel-menschen-kuenftig-mit-ki-zusammenarbeiten-100.html",
+      "description": "",
+      "publisher": "SWR",
+      "source_url": "https://www.swr.de",
+      "topic": "KI",
+      "topics": [
+        "KI"
+      ],
+      "published": "2026-10-29T05:24:34Z",
+      "google_url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOS0R6cXVVQnV2RkhTOXRUSVFjU0J1QWZVVW9mRGl5Vm9MeFlva1VqZExvOG0zbk5aYTVDY1VMd3J5RlIxcG9MbGptRnVGOXFVLTVxY3ppYkJ0eEVYcklNQWpySWJDSVNVMUhsd2NFblN3dFkxMXNYVkNkLUtvNURFblc3bE8zODVKcUZmcDVIb0dZYWRCeXFNcFZiXzY3VHRGTW4xRHh4VUppTE5KRWdtZGhYQ3VQZjVBT24yMXBoSU96Q2d0RjZpZEpXd09kRWxCR2FEdjUwWkFiNGV4VjdLd01WbVE?oc=5"
     },
     {
       "id": "c8e1ea1b0fd1c7c6defa16ca",
@@ -3495,20 +3469,6 @@
       "google_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNVFdBaVZFMmh1d2NYM05mblNBaExRT0VQaEdEZzJWNldyZWtOdTNGTWF5bzJNa3hJR0VWM3NqZUJvWGpuTVA2cWNkWndxck95VTVuSTJxVjFyS284cXJLUVg2VUpJU1NyeVFSNTlsbGs0bFNOZEpkVlo0Xy1ILXJkOGxXUQ?oc=5"
     },
     {
-      "id": "039722373873796be843be3d",
-      "title": "Tilly Norwood: »Es geht darum, authentisch zu sein, auch als künstliche Intelligenz«",
-      "url": "https://www.zeit.de/2026/47/tilly-norwood-ki-schauspielerin-particle-6-eline-van-der-velden",
-      "description": "",
-      "publisher": "DIE ZEIT",
-      "source_url": "https://www.zeit.de",
-      "topic": "Wissenschaft",
-      "topics": [
-        "Wissenschaft"
-      ],
-      "published": "2026-10-28T15:53:11Z",
-      "google_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQMmZSVl9TOVpLNW85ME9PSVBCT3M0S0R0Zm40SF91ejNFbW9hZUJJWXhaRlhEcVNUb3NrZDA4VUp3aTc5SF9FVlBTTEItdUF0U1VzQ2lrUmpkT0ZLcUtBUUg4WlZHdTNUWjFWZ0xJWFo0cWJkYkJaXzlYVDZQbFRONC1lXzNtZ1FNaGoxVHU2NFdORHl0b1E?oc=5"
-    },
-    {
       "id": "b4bc041ad79de37ed909f93f",
       "title": "So erkennst du verdeckte Narzissten – bevor sie dich manipulieren",
       "url": "https://web.de/magazine/wissen/psychologie/erkennst-verdeckte-narzissten-manipulieren-40148550",
@@ -3521,20 +3481,6 @@
       ],
       "published": "2026-10-28T15:39:09Z",
       "google_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOcWVXeWJHdUlYMVByV1N0NlgwazN5QkNXT01BSWk3T0ktcFNiTlNjQzlKeUtxR2MwLXhBRDhtTWpOMkJlRElQeXVmd09WZDRqVlhUTzNwZjV3UUNaVXhoLUZXdUlzREdmQmxDajRiZGRUZjlib0d5M3NncnVsQnhEY19tSUVRejVBeUUxanpBdnVaMGhGWkxmZXdn?oc=5"
-    },
-    {
-      "id": "71305dce0e911ec661ac2c61",
-      "title": "„Zeitflüssigkeit“: Seltsamer Materiezustand, der durch die Zeit fließt, könnte wirklich existieren",
-      "url": "https://www.scinexx.de/news/physik/zeitfluessigkeit-seltsamer-materiezustand-der-durch-die-zeit-fliesst-koennte-wirklich-existieren/",
-      "description": "",
-      "publisher": "Scinexx",
-      "source_url": "https://www.scinexx.de",
-      "topic": "Wissenschaft",
-      "topics": [
-        "Wissenschaft"
-      ],
-      "published": "2026-10-28T15:27:24Z",
-      "google_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxONkNtRklwc3JiR2U5S1hCTVBobEJjdzBTRWlQb0tBWVNuZVctakYxWWYxMmM1eUYydERMeDU3MHBDd3poZjlTUnl0NmN1UEdsSjgwSERIYjhpT2tmLVMxc0lPbl93X2luLUo1ZVZEWVI0M0YzZE9OMUI1REZEcnZyeTF1N2ZVdExwYmg0S1B4VnA2bkI1OTNoQk1zX2dHMXFyenM0ckY4UnB6YzUxZ1RfeE5ST1htdTU1aHdMdk5jeF9MUy1lUVZab2RKcXc?oc=5"
     },
     {
       "id": "9f85b233dfa7812a5d782d5a",
@@ -3579,34 +3525,6 @@
       "google_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMzJXQXlkUnpBams4azJNaWM1MEE2UXpLN3pJbGdHbzdET1N2dERSZ0dBb3hvT1Rfc2I4RXpMclhfaFJXclp5YnVFdE13SVdYNVBIdk84eW5yQ0x5N0ZlLWpOb3Mxd08tbGdZN09aUVZRWElpSHY0U3E1YmlOZFc5Q3czRWRRRmZBV3dyWlRWRWMwQlVEeEh4X1ZrRU95OENoVkJ5UngwaGFPaGZEaXVNZFUtYXM2eUVt?oc=5"
     },
     {
-      "id": "70ad6a3a653dc6d0389b4a72",
-      "title": "Artificial Intelligence: Trump Pushes the Term \"Superintelligence\"",
-      "url": "https://logistik-heute.de/en/news/artificial-intelligence-trump-pushes-term-superintelligence-290787.html",
-      "description": "",
-      "publisher": "Logistik Heute",
-      "source_url": "https://logistik-heute.de",
-      "topic": "KI",
-      "topics": [
-        "KI"
-      ],
-      "published": "2026-10-28T14:01:00Z",
-      "google_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWm1nckxRWENsdmNBUWlrNGNCZTB6eTNodDdxMWJxeV9pOU52UzVYNkxEb2RJempBbVA3NFljWllmYnlTcHB3ZnFjeU1raVQ4UUVKaHJzTFU4b2VnUjFkTGkxS21UZWoxbzhkWXByQWc2NEV6ejkyTWVMUkNhS0J5ZWx6ZjJDanpzU2tJOU5NaVJ2ZHZqZGtuRy1xZVhsT1FfT2oweXp4YnQ?oc=5"
-    },
-    {
-      "id": "7c1a7d2820f6e06d5f769a27",
-      "title": "Künstliche Intelligenz: Trump pusht Begriff „Superintelligenz“",
-      "url": "https://logistik-heute.de/news/kuenstliche-intelligenz-trump-pusht-begriff-superintelligenz-290787.html",
-      "description": "",
-      "publisher": "Logistik Heute",
-      "source_url": "https://logistik-heute.de",
-      "topic": "KI",
-      "topics": [
-        "KI"
-      ],
-      "published": "2026-10-28T13:54:00Z",
-      "google_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZ21PaFl4V3FyREhhTGgxRm44WjVFOFRUOFVQamdwRk1abE5RUW1WOG9XdGI2RE9PcUdWYUV6NHgySW9oMU9MaEx4b00xZ1FNMDgxWFVoM1J4N2p6SHRjY3k4d1ZPVjRzdEpjWFJtRmZGb0Y2NC1uOVhqMVMydFItX0xJVzBLRHBDTTdIblBtbXk3d1V0bVkxYlNGMEp5WV9iNjdNMWVR?oc=5"
-    },
-    {
       "id": "ca24739d0f565680d4266068",
       "title": "Alphabet vor Q3-Zahlen im Plus: OpenAI will Googles TPU-Chips direkt kaufen",
       "url": "https://de.finance.yahoo.com/nachrichten/alphabet-q3-zahlen-plus-openai-133455493.html",
@@ -3619,6 +3537,90 @@
       ],
       "published": "2026-10-28T13:34:55Z",
       "google_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPbExiTlhqTUxOcWxpdzN3MVJGejIxNkxlcnRXMlRVWW1YQzd1ZTg2d3JENktJVzl1WjFuLWVvdEdiakw0VWVudTNHZnI5TG1NQXhlbTN6eVdXTFd4bVZMQkdKN1pqeERyb3J6c2FCT3VVRXpFVVltRzNNekRjQkxmNTQxWXVzTFJnRk9Ob29ucw?oc=5"
+    },
+    {
+      "id": "ccce4f3e0498d0fde00a39ec",
+      "title": "Studie schätzt über 50.000 Hitzetote in europäischen Städten",
+      "url": "https://www.fr.de/politik/studie-ueber-50-000-hitzetote-in-europa-zwei-drittel-wegen-klimawandel-94562588.html",
+      "description": "",
+      "publisher": "Frankfurter Rundschau",
+      "source_url": "https://www.fr.de",
+      "topic": "Umwelt",
+      "topics": [
+        "Umwelt"
+      ],
+      "published": "2026-10-28T13:18:35Z",
+      "google_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQSjNMdGFVR25fbXZld0FDVXdPcktfMW5DR0JBcUZoRDlsMENTVVE1V3Z2Qzg3RUQyWm1MNEh2THotY294dlVjd1VrREtaUWZrOXpmSXBjeFdMSVN6UFN4YVdRbHJteENjeW1BbnNmTkVBbHFUYWx4Zi0zUGljLTJmSzNEdnJqbE9qaEVtQnhfSDNTV05FdFZZMm5PVHhCenJBRUlGcVh4NjctUmNDbFpz?oc=5"
+    },
+    {
+      "id": "9bf1307d4427d2d7fe81f057",
+      "title": "Klimawandel: Extremhitze erhöht die Unterstützung für grüne Parteien",
+      "url": "https://www.scinexx.de/news/gesellschaft/klimawandel-extremhitze-erhoeht-die-unterstuetzung-fuer-gruene-parteien/",
+      "description": "",
+      "publisher": "Scinexx",
+      "source_url": "https://www.scinexx.de",
+      "topic": "Umwelt",
+      "topics": [
+        "Umwelt"
+      ],
+      "published": "2026-10-28T12:16:59Z",
+      "google_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOTlN4enlBMnRabVF4SkUtVGg4MmlPdm5Jcjl4TFRXRUJYVzFPNzZZMEt4aVBybjhzZkt4aVhqZlRvTG5sbWROTEN1aHFRTFNqVV9FZjdKb3NhUzVmeTJ3djBUd3hVYS1kWk9aZmpUOHgxOXF1Yl9TangxWHRVbUdsVUFlbEt1R3hSblNfak9NU2JoN0JFUC0wanB0TVFrZk9UVnBWXzRvUlctSVRIb3d0VXp0UQ?oc=5"
+    },
+    {
+      "id": "b379ae4daf5493389f06ebe6",
+      "title": "KI-Chips von Tensordyne: Dieser 400 Jahre alte Mathe-Trick steckt dahinter",
+      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/ki-chips-von-tensordyne-dieser-400-jahre-alte-mathe-trick-steckt-dahinter-accg-201309656.html",
+      "description": "",
+      "publisher": "FAZ",
+      "source_url": "https://www.faz.net",
+      "topic": "Wissenschaft",
+      "topics": [
+        "Wissenschaft"
+      ],
+      "published": "2026-10-28T12:11:07Z",
+      "google_url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxORThvMkx2WE5wOVRqeWNJRHJ5Y0gzOTVMWlRWWkV2LWU3NFUwbXpZQjJ1Y18xQTRCdGFzdjYwdmd5MVRaMzVTdVgxMzNNQWhVT2NrTmtVdHN0OFAwWmJhSGRONjZfUE1LLUpHMk45aUZqVVF0Ui14M3NsYWMxeDdPa2UxRmdFLUxkazU5aThvWURfWElPcV90cW9rNjJ0c09mTVFLNGVETHNFbVU0OWxPcm9zWEFRTV9ZZUZLbUlRSFFaRjM5c05VdmxhOUtWbTVsWGlNa2xTQ3ItNElm?oc=5"
+    },
+    {
+      "id": "1fc42fa553fcf79783297220",
+      "title": "Biodiversität und Klimawandel – Grasland ist ein wichtiger Kohlendioxidspeicher",
+      "url": "https://www.nd-aktuell.de/artikel/1203518.biodiversitaet-und-klimawandel-grasland-ist-ein-wichtiger-kohlendioxidspeicher.html",
+      "description": "",
+      "publisher": "nd-aktuell.de",
+      "source_url": "https://www.nd-aktuell.de",
+      "topic": "Umwelt",
+      "topics": [
+        "Umwelt"
+      ],
+      "published": "2026-10-28T11:31:00Z",
+      "google_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQaUh3cGFKel8wQnlmNTZtNkpESnJCOWFLWHhWZmUzV0NrZlVwQ0RxSm1YUnc5WmRSay02LTRHQmwzMFFBSm1nc2ZBdHU3cWV4d0Y1aGVzUzVmT0M3akpqamhGSTFmR1Q0RThRdmIyRGVIV1ROcF94aVFXQzhFd28tZHpxXy1MVTVWNGYtYlRVNWd0QXNrUk00RzdTdlFFeUU2eTNrckp3U2JPN29qVUV3Q3dqMXB3YWF1S2wwOWpub202aDQ?oc=5"
+    },
+    {
+      "id": "ccb85e5f2f092107ba129c46",
+      "title": "OpenAI knackt erneut Teil eines der fünf ungelösten Millionen-Dollar-Probleme",
+      "url": "https://www.derstandard.at/story/3000000346233/openai-knackt-erneut-teil-eines-der-fuenf-ungeloesten-millionen-dollar-probleme",
+      "description": "",
+      "publisher": "Der Standard",
+      "source_url": "https://www.derstandard.at",
+      "topic": "KI",
+      "topics": [
+        "KI"
+      ],
+      "published": "2026-10-28T11:08:00Z",
+      "google_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPYjhLOE1wNDdNNF93SmpLRHptTC1oRTVRMmM3X08zSmFwMk10dEJSem5veDZSbG1nNjNXanp1MFlSMzBTYXNyLTRrcFJiQnNtUC01QW1jM09PWEhqR0xZbmVzQ3JwVmVmeklCUUNNVkIyZFRQUGRSQ09lV010YXFZc3A4U2FraDRrMS1BOHdBc2RRZkhPYzBQemlsWEVWT2pQMzhBaXMycEV4Mkp2QzF1RWljdUtqSDhHNFZJaXF2Mkd5RjJX?oc=5"
+    },
+    {
+      "id": "c42489e7e1c3824aef27e99b",
+      "title": "Bayern hat fast ein Drittel seiner Schneetage verloren",
+      "url": "https://www.augsburger-allgemeine.de/bayern/schneetage-sinken-durch-klimawandel-bayerns-winter-haben-ein-drittel-ihres-schnees-verloren-115556829",
+      "description": "",
+      "publisher": "Augsburger Allgemeine",
+      "source_url": "https://www.augsburger-allgemeine.de",
+      "topic": "Umwelt",
+      "topics": [
+        "Umwelt"
+      ],
+      "published": "2026-10-28T11:00:00Z",
+      "google_url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQMFhQX1lyOTFNRnVXNzFlZm9hbzgyY1hmVTJYMmVsQUo1WlhEYkkxbzJ0enRuVmNpXzdjRVVNLXJzVmhjQVM0WW1DUVhKOElUR281YW4tVHNmUktjLUhpd095VkQ3OEcyUlZPeW9reHhMY2hkMzdrdWhBOGZyS0ZYa0ZpNy1qRk15N2tWWlFNdEVUSGpRMnZCemZnR2RxRmwwaG5CcFdhSGpKbmVNVUdQVzhnQjdhWVNkNkFhc1FHNmlBVVMxU0VyN19TZVdJRlRzS29oc0FqNGU1MWZTUEE?oc=5"
     }
   ],
   "failed_feeds": [],
